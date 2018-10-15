@@ -6,11 +6,13 @@ https://www.sc-nm.si/sss/aktivnosti/gradiva/mat
 Nalogo si rezerviraš tako, da vpišeš alinejo oblike. Vsako nalogo si lahko rezervira samo eden študent (t.j. rešujemo različne naloge). Če zmanjka nalog, odprite "Issue" na repozitoriju in bomo dodali nove. Če poznate še kako zanimivo spletno zbirko nalog za srednjo šolo, jo seveda lahko predlagate.
 Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih stopenj ter da vključujejo tako poenostavljanje izrazov, kot reševanje enačb in tudi risanje (grafov, likov, teles, ...)
 
+Če bo še kdo sproti prijazen in nad naslov učnega lista dodal še direktno povezavo (tako kot je narejeno v 1. primeru), mu bomo pa še vsi zelo hvaležni :)
+
 ```
 - (št.naloge) uporabniško_ime
 ```
 
-### Učni list - Naravna in cela števila.pdf
+### [Učni list - Naravna in cela števila.pdf](https://www.sc-nm.si/sss/si/file/download/861_0affa8c3752b/U%C4%8Dni%20list%20-%20Naravna%20in%20cela%20%C5%A1tevila.pdf)
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
