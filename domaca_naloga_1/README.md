@@ -4,46 +4,161 @@ Naloge se nahajajo na spletni povezavi
 https://www.sc-nm.si/sss/aktivnosti/gradiva/mat
 
 ### Učni list - Naravna in cela števila.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
 ### Učni list - Deljivost.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
 ### Učni list - Potence.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
 ### Učni list - Računanje z izrazi.pdf
-Učni list - Racionalna števila.pdf
-Učni list - Decimalna števila.pdf
-Učni list - Sorazmerja in odstotki.pdf
-Učni list - Realna števila.pdf
-Učni list - Linearna enačba.pdf
-Učni list - Pravokotni koordinatni sistem.pdf
-Učni list - Linearna funkcija.pdf
-Učni list - Sistemi linearnih enačb.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
 
-Učni list - Geometrija.pdf
-Učni list - Kotne funkcije v pravokotnem trikotniku.pdf
-Učni list - Računanje s koreni.pdf
-Učni list - Potence z racionalnim eksponentom.pdf
-Učni list - Kvadratna enačba.pdf
-Učni list - Kvadratna funkcija.pdf
-Učni list - Ploščine geometrijskih likov.pdf
+### Učni list - Racionalna števila.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
 
-Učni list - Geometrijska telesa.pdf
-Učni list - Eksponentna funkcija in enačba.pdf
-Učni list - Logaritem - 1.pdf
-Učni list - Logaritem - 2.pdf
-Učni list - Polinomi - 1.pdf
-Učni list - Polinomi - 2.pdf
-Učni list - Racionalna funkcija - 1.pdf
-Učni list - Racionalna funkcija - 2.pdf
-Učni list - Statistika.pdf
+### Učni list - Decimalna števila.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
 
-Tabela vrednosti KF.pdf
-Učni list - Kotne funkcije - 1.pdf
-Učni list - Kotne funkcije - 2.pdf
-Učni list - Lastnosti funkcij.pdf
-Učni list - Odvod - 1.pdf
-Učni list - Odvod - 2.pdf
-Učni list - Zaporedja.pdf
-Učni list - Aritmetična zaporedja.pdf
-Učni list - Geometrijska zaporedja.pdf
-Učni list - Kombinatorika in verjetnost.pdf
+### Učni list - Sorazmerja in odstotki.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
 
-Učni list - Kompleksna števila.pdf
-Učni list - Integral.pdf
+### Učni list - Realna števila.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Linearna enačba.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Pravokotni koordinatni sistem.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Linearna funkcija.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Sistemi linearnih enačb.pdf
+
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Geometrija.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Računanje s koreni.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Potence z racionalnim eksponentom.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Kvadratna enačba.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Kvadratna funkcija.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Ploščine geometrijskih likov.pdf
+
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Geometrijska telesa.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Eksponentna funkcija in enačba.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Logaritem - 1.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Logaritem - 2.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Polinomi - 1.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Polinomi - 2.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Racionalna funkcija - 1.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Racionalna funkcija - 2.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Statistika.pdf
+
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Kotne funkcije - 1.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Kotne funkcije - 2.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Lastnosti funkcij.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Odvod - 1.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Odvod - 2.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Zaporedja.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Aritmetična zaporedja.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Geometrijska zaporedja.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Kombinatorika in verjetnost.pdf
+
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Kompleksna števila.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
+
+### Učni list - Integral.pdf
+- uporabnisko_ime_1
+- uporabniško_ime_2
