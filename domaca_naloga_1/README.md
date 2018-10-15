@@ -1,11 +1,17 @@
 # Rezervacije 1. domačih nalog
 
+Vsak študent naj si rezervira 10 nalog iz različnih sklopov nalog.
 Naloge se nahajajo na spletni povezavi
 https://www.sc-nm.si/sss/aktivnosti/gradiva/mat
+Nalogo si rezerviraš tako, da vpišeš alinejo oblike. Vsako nalogo si lahko rezervira samo eden študent (t.j. rešujemo različne naloge). Če zmanjka nalog, odprite "Issue" na repozitoriju in bomo dodali nove.
+
+```
+- (št.naloge) uporabniško_ime
+```
 
 ### Učni list - Naravna in cela števila.pdf
-- uporabnisko_ime_1
-- uporabniško_ime_2
+- (1) uporabnisko_ime_1
+- (2) uporabniško_ime_2
 
 ### Učni list - Deljivost.pdf
 - uporabnisko_ime_1
