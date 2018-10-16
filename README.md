@@ -11,4 +11,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [KlaraKosec](https://github.com/KlaraKosec/hzt)
  - [TPogacar](https://github.com/TPogacar/ROM)
 - [ZacetekVaj](https://github.com/ZacetekVaj/ROM)
--[BacekJon] (https://github.com/BacekJon/ROM)
+- [KonecVaj](https://github.com/KonecVaj/ROM)
