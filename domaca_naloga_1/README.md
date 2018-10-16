@@ -38,7 +38,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Decimalna števila.pdf
-- (1) uporabnisko_ime_1
+- (1) AliGremLahkoNaWC
 - (2) uporabnisko_ime_2
 - ...
 
