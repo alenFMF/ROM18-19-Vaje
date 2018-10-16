@@ -14,17 +14,17 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### [Učni list - Naravna in cela števila.pdf](https://www.sc-nm.si/sss/si/file/download/861_0affa8c3752b/U%C4%8Dni%20list%20-%20Naravna%20in%20cela%20%C5%A1tevila.pdf)
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Deljivost.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Potence.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Računanje z izrazi.pdf
@@ -34,7 +34,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Racionalna števila.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Decimalna števila.pdf
@@ -49,12 +49,12 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Realna števila.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Linearna enačba.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Pravokotni koordinatni sistem.pdf
@@ -64,12 +64,12 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Linearna funkcija.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Sistemi linearnih enačb.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Geometrija.pdf
@@ -84,7 +84,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Računanje s koreni.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
