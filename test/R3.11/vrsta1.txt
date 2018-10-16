@@ -1,4 +1,5 @@
 ﻿Uporabniška imena iz Githuba iz vrste XXX v učilnici YYY:
-15minutOdmora    blabla
-ZacetekVaj	blabla
-KonecVaj        blabla
+
+ZacetekVaj	ohhh
+15minutOdmora   skoraj 
+KonecVaj        yeee
