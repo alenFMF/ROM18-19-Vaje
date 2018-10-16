@@ -69,7 +69,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Sistemi linearnih enačb.pdf
 - (1) uporabnisko_ime_1
-- (2) AliGremLahkoNaWC
+- (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Geometrija.pdf
@@ -110,7 +110,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Geometrijska telesa.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Eksponentna funkcija in enačba.pdf
