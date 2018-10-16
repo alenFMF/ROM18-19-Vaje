@@ -12,4 +12,5 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
  - [TPogacar](https://github.com/TPogacar/ROM)
 - [ZacetekVaj](https://github.com/ZacetekVaj/ROM)
 - [KonecVaj](https://github.com/KonecVaj/ROM)
-- [SmokeyAjax](https://github.com/SmokeyAjax/ROM.git)
+- [SmokeyAjax] (https://github.com/SmokeyAjax/ROM.git)
+- [15minutOdmora](https://github.com/15minutOdmora/ROM)
