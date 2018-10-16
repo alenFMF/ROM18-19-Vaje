@@ -15,3 +15,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [SmokeyAjax](https://github.com/SmokeyAjax/ROM.git)
 - [Peterkac](https://github.com/Peterkac/ROM)
 - [BacekJon](https://github.com/BacekJon/ROM)
+- [15minutOdmora](https://github.com/15minutOdmora/ROM)
