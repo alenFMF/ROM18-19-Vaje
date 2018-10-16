@@ -78,7 +78,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Geometrija.pdf
-- (1) uporabnisko_ime_1
+- (1) SmokeyAjax
 - (2)
 - ...
 
