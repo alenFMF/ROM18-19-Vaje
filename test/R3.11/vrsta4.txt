@@ -1,5 +1,13 @@
 ﻿Uporabniška imena iz Githuba iz vrste XXX v učilnici YYY:
 
 BacekJon - Nas Bacek Jon na vse luparije se spozna
+<<<<<<< HEAD
+<<<<<<< HEAD
+denis123FMF - sup
+=======
+Alen - I was here!
+>>>>>>> ce967a8ebdf500d2bf8335c5eb86bdc43aeb8800
+=======
 Alen - I was here!
 CusinM15- hello world!
+>>>>>>> 09dc9212c3ec3e8e52e00b01fba6eb66c5640560
