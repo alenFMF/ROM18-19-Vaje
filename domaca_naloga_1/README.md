@@ -69,32 +69,32 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Linearna funkcija.pdf
 - (1) uporabnisko_ime_1
-- (2) KlaraKosec
+- (2)
 - ...
 
 ### Učni list - Sistemi linearnih enačb.pdf
 - (1) uporabnisko_ime_1
-- (2) KlaraKosec
+- (2) 
 - ...
 
 ### Učni list - Geometrija.pdf
 - (1) uporabnisko_ime_1
-- (2) KlaraKosec
+- (2)
 - ...
 
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf
 - (1) uporabnisko_ime_1
-- (2) KlaraKosec
+- (2) 
 - ...
 
 ### Učni list - Računanje s koreni.pdf
 - (1) uporabnisko_ime_1
-- (2) KlaraKosec
+- (2) 
 - ...
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
 - (1) uporabnisko_ime_1
-- (2) KlaraKosec
+- (2) 
 - ...
 
 ### Učni list - Kvadratna enačba.pdf
