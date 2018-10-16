@@ -209,6 +209,6 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Integral.pdf
-- (1) uporabnisko_ime_1
+- (1) TPogacar
 - (2) uporabnisko_ime_2
 - ...
