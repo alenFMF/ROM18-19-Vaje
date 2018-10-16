@@ -16,11 +16,15 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (1) uporabnisko_ime_1
 - (2) AliGremLahkoNaWC
 - ...
+- (6) TPogacar
+- (7) KlaraKosec
 
 ### Učni list - Deljivost.pdf
 - (1) uporabnisko_ime_1
 - (2) AliGremLahkoNaWC
 - ...
+- (11) TPogacar
+- (5) KlaraKosec
 
 ### Učni list - Potence.pdf
 - (1) uporabnisko_ime_1
