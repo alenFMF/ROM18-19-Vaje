@@ -14,82 +14,87 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### [Učni list - Naravna in cela števila.pdf](https://www.sc-nm.si/sss/si/file/download/861_0affa8c3752b/U%C4%8Dni%20list%20-%20Naravna%20in%20cela%20%C5%A1tevila.pdf)
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
+- (6) TPogacar
+- (7) KlaraKosec
 
 ### Učni list - Deljivost.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
+- (11) TPogacar
+- (5) KlaraKosec
 
 ### Učni list - Potence.pdf
-- (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (1) KlaraKosec
+- (2) AliGremLahkoNaWC
 - ...
+- 
 
 ### Učni list - Računanje z izrazi.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Racionalna števila.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Decimalna števila.pdf
-- (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (1) AliGremLahkoNaWC
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Sorazmerja in odstotki.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Realna števila.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Linearna enačba.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Pravokotni koordinatni sistem.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Linearna funkcija.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2)
 - ...
 
 ### Učni list - Sistemi linearnih enačb.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) 
 - ...
 
 ### Učni list - Geometrija.pdf
-- (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (1) SmokeyAjax
+- (2)
 - ...
 
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) 
 - ...
 
 ### Učni list - Računanje s koreni.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) 
 - ...
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) 
 - ...
 
 ### Učni list - Kvadratna enačba.pdf
@@ -110,7 +115,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Geometrijska telesa.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Eksponentna funkcija in enačba.pdf
