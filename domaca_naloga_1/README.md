@@ -18,6 +18,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 - (6) TPogacar
 - (7) KlaraKosec
+- (8) ZacetekVaj
 
 ### Učni list - Deljivost.pdf
 - (1) uporabnisko_ime_1
@@ -38,9 +39,10 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Racionalna števila.pdf
-- (1) 15minutOdmora
+- (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Decimalna števila.pdf
 - (1) AliGremLahkoNaWC
@@ -48,7 +50,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Sorazmerja in odstotki.pdf
-- (1) 15minutOdmora
+- (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
 
@@ -56,11 +58,13 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Linearna enačba.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Pravokotni koordinatni sistem.pdf
 - (1) uporabnisko_ime_1
@@ -69,21 +73,22 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Linearna funkcija.pdf
 - (1) ZacetekVaj
-- (2) 15minutOdmora
+- (2)
 - ...
 
 ### Učni list - Sistemi linearnih enačb.pdf
-- (1) 15minutOdmora
+- (1) uporabnisko_ime_1
 - (2) 
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Geometrija.pdf
-- (1) 15minutOdmora
+- (1) uporabnisko_ime_1
 - (2)
 - ...
 
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf
-- (1)15minutOdmora
+- (1) uporabnisko_ime_1
 - (2) 
 - ...
 
@@ -101,6 +106,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Kvadratna funkcija.pdf
 - (1) uporabnisko_ime_1
@@ -122,16 +128,19 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Logaritem - 1.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Logaritem - 2.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Polinomi - 1.pdf
 - (1) uporabnisko_ime_1
