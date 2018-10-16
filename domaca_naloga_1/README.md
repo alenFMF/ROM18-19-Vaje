@@ -18,7 +18,6 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 - (6) TPogacar
 - (7) KlaraKosec
-- (8) leon997
 
 ### Učni list - Deljivost.pdf
 - (1) uporabnisko_ime_1
@@ -26,8 +25,6 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 - (11) TPogacar
 - (5) KlaraKosec
-- (8) leon997
-
 
 ### Učni list - Potence.pdf
 - (1) KlaraKosec
@@ -38,15 +35,11 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 ### Učni list - Računanje z izrazi.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- (8) leon997
-
 - ...
 
 ### Učni list - Racionalna števila.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- (8) leon997
-
 - ...
 
 ### Učni list - Decimalna števila.pdf
@@ -57,8 +50,6 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 ### Učni list - Sorazmerja in odstotki.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- (8) leon997
-
 - ...
 
 ### Učni list - Realna števila.pdf
@@ -69,8 +60,6 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 ### Učni list - Linearna enačba.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- (8) leon997
-
 - ...
 
 ### Učni list - Pravokotni koordinatni sistem.pdf
@@ -79,7 +68,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Linearna funkcija.pdf
-- (1) uporabnisko_ime_1
+- (1) ZacetekVaj
 - (2)
 - ...
 
@@ -101,29 +90,21 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 ### Učni list - Računanje s koreni.pdf
 - (1) uporabnisko_ime_1
 - (2) 
-- (8) leon997
-
 - ...
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
 - (1) uporabnisko_ime_1
 - (2) 
-- (8) leon997
-
 - ...
 
 ### Učni list - Kvadratna enačba.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
-- (8) leon997
-
 - ...
 
 ### Učni list - Kvadratna funkcija.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
-- (8) leon997
-
 - ...
 
 ### Učni list - Ploščine geometrijskih likov.pdf
