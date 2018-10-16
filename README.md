@@ -9,3 +9,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [leon997](https://github.com/leon997/ROM)
 - [KlaraKosec] (https://github.com/KlaraKosec/hzt)
  - [TPogacar](https://github.com/TPogacar/ROM)
+-[15minutOdmora] (https://github.com/15minutOdmora/ROM)
