@@ -13,7 +13,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 ```
 
 ### [Učni list - Naravna in cela števila.pdf](https://www.sc-nm.si/sss/si/file/download/861_0affa8c3752b/U%C4%8Dni%20list%20-%20Naravna%20in%20cela%20%C5%A1tevila.pdf)
-- (1) uporabnisko_ime_1
+- (1) KonecVaj
 - (2) AliGremLahkoNaWC
 - ...
 - (6) TPogacar
@@ -22,7 +22,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (9) 15minutOdmora
 
 ### Učni list - Deljivost.pdf
-- (1) uporabnisko_ime_1
+- (1) KonecVaj
 - (2) AliGremLahkoNaWC
 - ...
 - (11) TPogacar
@@ -31,7 +31,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 ### Učni list - Potence.pdf
 - (1) KlaraKosec
 - (2) AliGremLahkoNaWC
-- ...
+- (3) KonecVaj
 - (6) 15minutOdmora
 
 ### Učni list - Računanje z izrazi.pdf
