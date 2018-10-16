@@ -85,22 +85,22 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (8) ZacetekVaj
 
 ### Učni list - Geometrija.pdf
-- (1) uporabnisko_ime_1
+- (1) SmokeyAjax
 - (2)
 - ...
 
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf
-- (1) uporabnisko_ime_1
+- (1) SmokeyAjax
 - (2) 
 - ...
 
 ### Učni list - Računanje s koreni.pdf
-- (1) uporabnisko_ime_1
+- (1) SmokeyAjax
 - (2) 
 - ...
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
-- (1) uporabnisko_ime_1
+- (1) SmokeyAjax
 - (2) 
 - ...
 
@@ -111,13 +111,13 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (8) ZacetekVaj
 
 ### Učni list - Kvadratna funkcija.pdf
-- (1) uporabnisko_ime_1
+- (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Ploščine geometrijskih likov.pdf
 
-- (1) uporabnisko_ime_1
+- (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - ...
 
@@ -145,22 +145,22 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (8) ZacetekVaj
 
 ### Učni list - Polinomi - 1.pdf
-- (1) uporabnisko_ime_1
+- (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Polinomi - 2.pdf
-- (1) uporabnisko_ime_1
+- (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Racionalna funkcija - 1.pdf
-- (1) uporabnisko_ime_1
+- (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Racionalna funkcija - 2.pdf
-- (1) uporabnisko_ime_1
+- (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - ...
 
