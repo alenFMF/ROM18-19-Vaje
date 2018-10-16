@@ -21,6 +21,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (1) uporabnisko_ime_1
 - (2) AliGremLahkoNaWC
 - ...
+- (11) TPogacar
 
 ### Učni list - Potence.pdf
 - (1) uporabnisko_ime_1
