@@ -1,3 +1,6 @@
 ﻿Uporabniška imena iz Githuba iz vrste XXX v učilnici YYY:
 
 Leon997 - nek komentar
+Peterkac - komentar nek
+TPogacar - nek komentar (v isti vrstici)
+KlaraKosec - v isti vrstici komentar
