@@ -17,46 +17,48 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (2) AliGremLahkoNaWC
 - ...
 - (6) TPogacar
+- (7) KlaraKosec
 
 ### Učni list - Deljivost.pdf
 - (1) uporabnisko_ime_1
 - (2) AliGremLahkoNaWC
 - ...
 - (11) TPogacar
+- (5) KlaraKosec
 
 ### Učni list - Potence.pdf
-- (1) uporabnisko_ime_1
+- (1) KlaraKosec
 - (2) AliGremLahkoNaWC
-- (3) TPogacar
 - ...
+- 
 
 ### Učni list - Računanje z izrazi.pdf
-- (1) TPogacar
-- (2) uporabnisko_ime_2
+- (1) uporabnisko_ime_1
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Racionalna števila.pdf
-- (1) TPogacar
-- (2) AliGremLahkoNaWC
+- (1) uporabnisko_ime_1
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Decimalna števila.pdf
 - (1) AliGremLahkoNaWC
-- (2) Tpogacar
+- (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Sorazmerja in odstotki.pdf
-- (1) TPogacar
+- (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Realna števila.pdf
-- (1) TPogacar
+- (1) uporabnisko_ime_1
 - (2) AliGremLahkoNaWC
 - ...
 
 ### Učni list - Linearna enačba.pdf
-- (1) TPogacar
+- (1) uporabnisko_ime_1
 - (2) AliGremLahkoNaWC
 - ...
 
