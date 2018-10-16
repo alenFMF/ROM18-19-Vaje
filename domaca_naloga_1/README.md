@@ -84,7 +84,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf
 - (1)15minutOdmora
-- (2) 
+- (2) Errick0
 - ...
 
 ### Učni list - Računanje s koreni.pdf
@@ -103,7 +103,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Kvadratna funkcija.pdf
-- (1) uporabnisko_ime_1
+- (1) Errick0
 - (2) uporabnisko_ime_2
 - ...
 
@@ -119,7 +119,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Eksponentna funkcija in enačba.pdf
-- (1) uporabnisko_ime_1
+- (1) Errick0
 - (2) uporabnisko_ime_2
 - ...
 
@@ -144,7 +144,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Racionalna funkcija - 1.pdf
-- (1) uporabnisko_ime_1
+- (1) Errick0
 - (2) uporabnisko_ime_2
 - ...
 
@@ -164,12 +164,12 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Kotne funkcije - 2.pdf
-- (1) uporabnisko_ime_1
+- (1) Errick0
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Lastnosti funkcij.pdf
-- (1) uporabnisko_ime_1
+- (1) Errick0
 - (2) uporabnisko_ime_2
 - ...
 
@@ -184,17 +184,17 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Zaporedja.pdf
-- (1) uporabnisko_ime_1
+- (1) Errick0
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Aritmetična zaporedja.pdf
-- (1) uporabnisko_ime_1
+- (1) Errick0
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Geometrijska zaporedja.pdf
-- (1) uporabnisko_ime_1
+- (1) Errick0
 - (2) uporabnisko_ime_2
 - ...
 
@@ -209,6 +209,6 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Integral.pdf
-- (1) uporabnisko_ime_1
+- (1) Errick0
 - (2) uporabnisko_ime_2
 - ...
