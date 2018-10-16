@@ -20,6 +20,6 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [Argonfmf](https://github.com/Argonfmf/ROM)
 - [Peterkac](https://github.com/Peterkac/ROM)
 - [BacekJon](https://github.com/BacekJon/ROM)
-- [15minutOdmora](https://github.com/15minutOdmora/ROM)
+- [15minutOdmora](https://github.com/15minutOdmora/ROM) 
 
 
