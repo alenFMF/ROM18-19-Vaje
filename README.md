@@ -21,5 +21,5 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [Peterkac](https://github.com/Peterkac/ROM)
 - [BacekJon](https://github.com/BacekJon/ROM)
 - [15minutOdmora](https://github.com/15minutOdmora/ROM)
-- AliGremLahkoNaWC (https://github.com/AliGremLahkoNaWC)
+
 
