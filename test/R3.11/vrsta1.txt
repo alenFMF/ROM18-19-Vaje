@@ -1,71 +1,9 @@
 ﻿Uporabniška imena iz Githuba iz vrste XXX v učilnici YYY:
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 zebra je šla čez cesto.
 če čebula nebi bila čebula ne bo čebula nikoli.
 glava nikoli ne stoji na mestu, kaj šele možgani.
-=======
 ZacetekVaj	ohhh
 15minutOdmora   skoraj 
 KonecVaj        yeee
->>>>>>> 080397c333093a2005471d8829f197fcd119a569
+
