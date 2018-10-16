@@ -68,7 +68,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Linearna funkcija.pdf
-- (1) uporabnisko_ime_1
+- (1) ZacetekVaj
 - (2)
 - ...
 
