@@ -18,8 +18,8 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 - (6) TPogacar
 - (7) KlaraKosec
-- (8) leon997
-- (9) KonecVaj
+- (8) ZacetekVaj
+- (9) 15minutOdmora
 
 ### Učni list - Deljivost.pdf
 - (1) uporabnisko_ime_1
@@ -27,31 +27,24 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 - (11) TPogacar
 - (5) KlaraKosec
-- (8) leon997
-- (9) KonecVaj
-
 
 ### Učni list - Potence.pdf
 - (1) KlaraKosec
 - (2) AliGremLahkoNaWC
-- (3) KonecVaj
 - ...
-- 
+- (6) 15minutOdmora
 
 ### Učni list - Računanje z izrazi.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- (8) leon997
-- (9) KonecVaj
-
 - ...
-
+- (5) 15minutOdmora
 ### Učni list - Racionalna števila.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- (8) leon997
-
 - ...
+- (8) ZacetekVaj
+- (9) 15minutOdmora
 
 ### Učni list - Decimalna števila.pdf
 - (1) AliGremLahkoNaWC
@@ -61,23 +54,19 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 ### Učni list - Sorazmerja in odstotki.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- (8) leon997
-
 - ...
 
 ### Učni list - Realna števila.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- (3) KonecVaj
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Linearna enačba.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- (8) leon997
-- (9) KonecVaj
-
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Pravokotni koordinatni sistem.pdf
 - (1) uporabnisko_ime_1
@@ -85,7 +74,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Linearna funkcija.pdf
-- (1) uporabnisko_ime_1
+- (1) ZacetekVaj
 - (2)
 - ...
 
@@ -93,6 +82,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (1) uporabnisko_ime_1
 - (2) 
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Geometrija.pdf
 - (1) uporabnisko_ime_1
@@ -107,31 +97,22 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 ### Učni list - Računanje s koreni.pdf
 - (1) uporabnisko_ime_1
 - (2) 
-- (8) leon997
-
 - ...
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
 - (1) uporabnisko_ime_1
 - (2) 
-- (8) leon997
-
 - ...
 
 ### Učni list - Kvadratna enačba.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
-- (8) leon997
-- (9) KonecVaj
-
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Kvadratna funkcija.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
-- (8) leon997
-- (9) KonecVaj
-
 - ...
 
 ### Učni list - Ploščine geometrijskih likov.pdf
@@ -149,17 +130,19 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Logaritem - 1.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
-- (2) KonecVaj
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Logaritem - 2.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
+- (8) ZacetekVaj
 
 ### Učni list - Polinomi - 1.pdf
 - (1) uporabnisko_ime_1
@@ -202,9 +185,8 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Odvod - 1.pdf
-- (1) uporabnisko_ime_1
+- (1) 15minutOdmora
 - (2) uporabnisko_ime_2
-- (3) KonecVaj
 - ...
 
 ### Učni list - Odvod - 2.pdf
@@ -213,17 +195,17 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Zaporedja.pdf
-- (1) uporabnisko_ime_1
+- (1) 15minutOdmora
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Aritmetična zaporedja.pdf
-- (1) uporabnisko_ime_1
+- (1) 15minutOdmora
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Geometrijska zaporedja.pdf
-- (1) uporabnisko_ime_1
+- (1) 15minutOdmora
 - (2) uporabnisko_ime_2
 - ...
 
