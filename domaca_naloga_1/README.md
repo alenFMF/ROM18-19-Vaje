@@ -44,57 +44,57 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Decimalna števila.pdf
 - (1) AliGremLahkoNaWC
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Sorazmerja in odstotki.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Realna števila.pdf
 - (1) uporabnisko_ime_1
-- (2) AliGremLahkoNaWC
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Linearna enačba.pdf
 - (1) uporabnisko_ime_1
-- (2) AliGremLahkoNaWC
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Pravokotni koordinatni sistem.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Linearna funkcija.pdf
 - (1) uporabnisko_ime_1
-- (2) AliGremLahkoNaWC
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Sistemi linearnih enačb.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Geometrija.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Računanje s koreni.pdf
 - (1) uporabnisko_ime_1
-- (2) AliGremLahkoNaWC
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) KlaraKosec
 - ...
 
 ### Učni list - Kvadratna enačba.pdf
@@ -209,6 +209,6 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Integral.pdf
-- (1) TPogacar
+- (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
