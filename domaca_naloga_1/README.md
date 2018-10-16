@@ -38,7 +38,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Racionalna števila.pdf
-- (1) uporabnisko_ime_1
+- (1) 15minutOdmora
 - (2) KlaraKosec
 - ...
 
@@ -48,7 +48,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 - ...
 
 ### Učni list - Sorazmerja in odstotki.pdf
-- (1) uporabnisko_ime_1
+- (1) 15minutOdmora
 - (2) KlaraKosec
 - ...
 
@@ -69,21 +69,21 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 ### Učni list - Linearna funkcija.pdf
 - (1) ZacetekVaj
-- (2)
+- (2) 15minutOdmora
 - ...
 
 ### Učni list - Sistemi linearnih enačb.pdf
-- (1) uporabnisko_ime_1
+- (1) 15minutOdmora
 - (2) 
 - ...
 
 ### Učni list - Geometrija.pdf
-- (1) uporabnisko_ime_1
+- (1) 15minutOdmora
 - (2)
 - ...
 
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf
-- (1) uporabnisko_ime_1
+- (1)15minutOdmora
 - (2) 
 - ...
 
