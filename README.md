@@ -6,7 +6,7 @@ Na tem repozitoriju so povezave do repozitorijev sodelujočih pri predmetu.
 V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodelujočih
 
 - [alenFMF](https://github.com/alenFMF/ROM18-19-Vaje)
-- PeterFMF (https://github.com/PeterFMF/ROM)
+- [PeterFMF](https://github.com/PeterFMF/ROM)
 - [leon997](https://github.com/leon997/ROM)
 - [KlaraKosec](https://github.com/KlaraKosec/hzt)
 - [TPogacar](https://github.com/TPogacar/ROM)
@@ -20,7 +20,7 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [Peterkac](https://github.com/Peterkac/ROM)
 - [BacekJon](https://github.com/BacekJon/ROM)
 - [15minutOdmora](https://github.com/15minutOdmora/ROM)
-- [DenisBencic] (https://github.com/DenisBencic/ROM2)
+- [DenisBencic](https://github.com/DenisBencic/ROM2)
 - [KlemenSkukan](https://github.com/KlemenSkukan/ROM)
-- [denis123FMF] (https://github.com/denis123FMF/ROM)
+- [denis123FMF](https://github.com/denis123FMF/ROM)
 
