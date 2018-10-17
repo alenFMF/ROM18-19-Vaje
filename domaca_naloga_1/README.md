@@ -1,4 +1,4 @@
-# Rezervacije 1. domačih nalog
+﻿# Rezervacije 1. domačih nalog
 
 Vsak študent naj si rezervira 10 nalog iz različnih sklopov nalog.
 Naloge se nahajajo na spletni povezavi
@@ -34,6 +34,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) KlaraKosec
 - (8) ZacetekVaj
 - (9) 15minutOdmora
+- (24) Gorlar
 
 ### Učni list - Deljivost.pdf
 - (1) KonecVaj
@@ -47,23 +48,26 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) AliGremLahkoNaWC
 - (3) KonecVaj
 - (6) 15minutOdmora
+- (18) Gorlar
 
 ### Učni list - Računanje z izrazi.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- ...
 - (5) 15minutOdmora
+- (13) Gorlar
+
 ### Učni list - Racionalna števila.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
 - (8) ZacetekVaj
 - (9) 15minutOdmora
+- (38) Gorlar
 
 ### Učni list - Decimalna števila.pdf
 - (1) AliGremLahkoNaWC
 - (2) KlaraKosec
-- ...
+- (3) Gorlar
 
 ### Učni list - Sorazmerja in odstotki.pdf
 - (1) uporabnisko_ime_1
@@ -73,7 +77,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Realna števila.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- ...
+- (3) Gorlar
 - (8) ZacetekVaj
 
 ### Učni list - Linearna enačba.pdf
@@ -110,7 +114,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### Učni list - Računanje s koreni.pdf
 - (1) SmokeyAjax
-- (2) 
+- (7) Gorlar 
 - ...
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
@@ -121,13 +125,13 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Kvadratna enačba.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
-- ...
+- (7) Gorlar
 - (8) ZacetekVaj
 
 ### Učni list - Kvadratna funkcija.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
-- ...
+- (40) Gorlar
 
 ### Učni list - Ploščine geometrijskih likov.pdf
 
@@ -161,12 +165,11 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Polinomi - 1.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
-- ...
 
 ### Učni list - Polinomi - 2.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
-- ...
+- (11) Gorlar
 
 ### Učni list - Racionalna funkcija - 1.pdf
 - (1) SmokeyAjax
