@@ -24,6 +24,7 @@ V **svojem repozitoriju** ```ROM```naredite mapico ```domaca_naloga_1``` in v nj
 - 15
 ...
 ```
+Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### [Učni list - Naravna in cela števila.pdf](https://www.sc-nm.si/sss/si/file/download/861_0affa8c3752b/U%C4%8Dni%20list%20-%20Naravna%20in%20cela%20%C5%A1tevila.pdf)
 - (1) KonecVaj
