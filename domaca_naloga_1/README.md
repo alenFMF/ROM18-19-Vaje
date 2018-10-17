@@ -57,7 +57,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - (5) 15minutOdmora
 - (13) Gorlar
-
+- (25) mitjamori
 
 ### Učni list - Racionalna števila.pdf 
 - (1) uporabnisko_ime_1
@@ -65,8 +65,8 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - ...
 - (8) ZacetekVaj
 - (9) 15minutOdmora
-- (25) mitjamori
 - (38) Gorlar
+- (33) mitjamori
 
 ### Učni list - Decimalna števila.pdf  https://www.sc-nm.si/sss/si/file/download/849_fd9b628c8edd/U%C4%8Dni%20list%20-%20Decimalna%20%C5%A1tevila.pdf
 - (1) AliGremLahkoNaWC
@@ -133,7 +133,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - (7) Gorlar
 - (8) ZacetekVaj
-- (18) mitjamori
+
 
 ### Učni list - Kvadratna funkcija.pdf
 - (1) SmokeyAjax
