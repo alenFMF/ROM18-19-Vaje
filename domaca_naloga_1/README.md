@@ -251,3 +251,5 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
+
+Test
