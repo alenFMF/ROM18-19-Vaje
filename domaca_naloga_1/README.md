@@ -1,4 +1,4 @@
-# Rezervacije 1. domačih nalog
+﻿# Rezervacije 1. domačih nalog
 
 Vsak študent naj si rezervira 10 nalog iz različnih sklopov nalog.
 Naloge se nahajajo na spletni povezavi
@@ -34,84 +34,90 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) KlaraKosec
 - (8) ZacetekVaj
 - (9) 15minutOdmora
+- (14) mitjamori
 
-### Učni list - Deljivost.pdf
+### Učni list - Deljivost.pdf https://www.sc-nm.si/sss/si/file/download/860_7c1612944279/U%C4%8Dni%20list%20-%20Deljivost.pdf
 - (1) KonecVaj
 - (2) AliGremLahkoNaWC
 - ...
 - (11) TPogacar
 - (5) KlaraKosec
 
-### Učni list - Potence.pdf
+### Učni list - Potence.pdf  https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf
 - (1) KlaraKosec
 - (2) AliGremLahkoNaWC
 - (3) KonecVaj
 - (6) 15minutOdmora
+- (4) mitjamori
 
-### Učni list - Računanje z izrazi.pdf
+### Učni list - Računanje z izrazi.pdf https://www.sc-nm.si/sss/si/file/download/851_b391a4d3b88a/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20z%20izrazi.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
 - (5) 15minutOdmora
-### Učni list - Racionalna števila.pdf
+- (25) mitjamori
+
+### Učni list - Racionalna števila.pdf https://www.sc-nm.si/sss/si/file/download/850_7907fe56caf7/U%C4%8Dni%20list%20-%20Racionalna%20%C5%A1tevila.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
 - (8) ZacetekVaj
 - (9) 15minutOdmora
 
-### Učni list - Decimalna števila.pdf
+### Učni list - Decimalna števila.pdf  https://www.sc-nm.si/sss/si/file/download/849_fd9b628c8edd/U%C4%8Dni%20list%20-%20Decimalna%20%C5%A1tevila.pdf
 - (1) AliGremLahkoNaWC
 - (2) KlaraKosec
 - ...
 
-### Učni list - Sorazmerja in odstotki.pdf
+### Učni list - Sorazmerja in odstotki.pdf  https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
 
-### Učni list - Realna števila.pdf
-- (1) uporabnisko_ime_1
-- (2) KlaraKosec
-- ...
-- (8) ZacetekVaj
-
-### Učni list - Linearna enačba.pdf
+### Učni list - Realna števila.pdf  https://www.sc-nm.si/sss/si/file/download/842_2a4e1f474025/U%C4%8Dni%20list%20-%20Realna%20%C5%A1tevila.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
 - (8) ZacetekVaj
 
-### Učni list - Pravokotni koordinatni sistem.pdf
+### Učni list - Linearna enačba.pdf  https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf
+- (1) uporabnisko_ime_1
+- (2) KlaraKosec
+- ...
+- (8) ZacetekVaj
+
+### Učni list - Pravokotni koordinatni sistem.pdf  https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
 
-### Učni list - Linearna funkcija.pdf
+### Učni list - Linearna funkcija.pdf  https://www.sc-nm.si/sss/si/file/download/835_a3b1692363f8/U%C4%8Dni%20list%20-%20Linearna%20funkcija.pdf
 - (1) ZacetekVaj
-- (2)
+- (2) mitjamori
 - ...
 
-### Učni list - Sistemi linearnih enačb.pdf
+### Učni list - Sistemi linearnih enačb.pdf  https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf
 - (1) uporabnisko_ime_1
 - (2) 
 - ...
 - (8) ZacetekVaj
 
-### Učni list - Geometrija.pdf
+### Učni list - Geometrija.pdf https://www.sc-nm.si/sss/si/file/download/908_fa3f990d1fc9/U%C4%8Dni%20list%20-%20Geometrija.pdf
 - (1) SmokeyAjax
 - (2)
 - ...
 
-### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf
+### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf  
 - (1) SmokeyAjax
 - (2) 
+- (14) mitjamori
 - ...
 
 ### Učni list - Računanje s koreni.pdf
 - (1) SmokeyAjax
 - (2) 
 - ...
+- (12) mitjamori
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
 - (1) SmokeyAjax
@@ -123,10 +129,12 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - ...
 - (8) ZacetekVaj
+- (18) mitjamori
 
 ### Učni list - Kvadratna funkcija.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
+- (8) mitjamori
 - ...
 
 ### Učni list - Ploščine geometrijskih likov.pdf
@@ -161,6 +169,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Polinomi - 1.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
+- (7) mitjamori
 - ...
 
 ### Učni list - Polinomi - 2.pdf
@@ -185,7 +194,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### Učni list - Kotne funkcije - 1.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) mitjamori
 - ...
 
 ### Učni list - Kotne funkcije - 2.pdf
