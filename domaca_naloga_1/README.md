@@ -3,7 +3,7 @@
 Vsak študent naj si rezervira 10 nalog iz različnih sklopov nalog.
 Naloge se nahajajo na spletni povezavi
 https://www.sc-nm.si/sss/aktivnosti/gradiva/mat .
-Nalogo si rezerviraš tako, da vpišeš alinejo oblike. 
+Nalogo si rezerviraš tako, da vpišeš alinejo oblike: 
 
 ```
 - (št.naloge) uporabniško_ime
@@ -14,7 +14,7 @@ Potrudite se, da izberete take naloge, da bodo po rangu zahtevnosti različnih s
 
 Tistega, ki vpisuje rezervacijo in opazi, da pri določenem naslovu z nalogo ni spletne povezave, prosim, da jo doda. Glej primer na prvem naslovu (Naravna števila ...). Povezavo dobite na zgornji spletni strani tako, da z desno tipko kliknete na povezavo učnega lista ter izberete ```Copy Link Location``` oz. nekaj kar se v ustreznem jeziku glasi podobno. Potem lahko povezavo prilepite spodaj.
 
-V **svojem repozitoriju** ```ROM```naredite mapico ```domaca_naloga_1``` in v njem datoteko ```README.md```, v kateri napište zapise oblike.
+V **svojem repozitoriju** ```ROM```naredite mapico ```domaca_naloga_1``` in v njem datoteko ```README.md```, v kateri napište zapise oblike:
 ```
 # Rezerviral sem si naslednje naloge
 ### [Učni list - Naravna in cela števila.pdf](https://www.sc-nm.si/sss/si/file/download/861_0affa8c3752b/U%C4%8Dni%20list%20-%20Naravna%20in%20cela%20%C5%A1tevila.pdf)
