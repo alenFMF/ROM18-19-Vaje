@@ -35,6 +35,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (9) 15minutOdmora
 - (14) mitjamori
+- (17) Argonfmf
 - (24) Gorlar
 
 ### Učni list - Deljivost.pdf https://www.sc-nm.si/sss/si/file/download/860_7c1612944279/U%C4%8Dni%20list%20-%20Deljivost.pdf
