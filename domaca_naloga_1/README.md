@@ -35,6 +35,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (9) 15minutOdmora
 - (14) mitjamori
+- (15) DenisBencic
 - (17) Argonfmf
 - (24) Gorlar
 
@@ -43,19 +44,22 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) AliGremLahkoNaWC
 - ...
 - (11) TPogacar
+- (12) DenisBencic
 - (5) KlaraKosec
 
 ### Učni list - Potence.pdf  https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf
 - (1) KlaraKosec
 - (2) AliGremLahkoNaWC
 - (3) KonecVaj
-- (6) 15minutOdmora
 - (4) mitjamori
+- (6) 15minutOdmora
+- (9) DenisBencic
 - (18) Gorlar
 
 ### Učni list - Računanje z izrazi.pdf https://www.sc-nm.si/sss/si/file/download/851_b391a4d3b88a/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20z%20izrazi.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
+- (3) DenisBencic
 - (5) 15minutOdmora
 - (13) Gorlar
 - (25) mitjamori
@@ -64,6 +68,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
+- (7) DenisBencic
 - (8) ZacetekVaj
 - (9) 15minutOdmora
 - (38) Gorlar
@@ -73,6 +78,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) AliGremLahkoNaWC
 - (2) KlaraKosec
 - (3) Gorlar
+- (6) DenisBencic
 
 ### Učni list - Sorazmerja in odstotki.pdf  https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf
 - (1) uporabnisko_ime_1
@@ -83,10 +89,11 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) Gorlar
+- (4) DenisBencic
 - (8) ZacetekVaj
 
 ### Učni list - Linearna enačba.pdf  https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf
-- (1) uporabnisko_ime_1
+- (1) DenisBencic
 - (2) KlaraKosec
 - ...
 - (8) ZacetekVaj
@@ -100,10 +107,11 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) ZacetekVaj
 - (2) mitjamori
 - ...
+- (35) DenisBencic
 
 ### Učni list - Sistemi linearnih enačb.pdf  https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf
 - (1) uporabnisko_ime_1
-- (2) 
+- (2) DenisBencic
 - ...
 - (8) ZacetekVaj
 
