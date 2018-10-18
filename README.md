@@ -20,7 +20,7 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [Peterkac](https://github.com/Peterkac/ROM)
 - [BacekJon](https://github.com/BacekJon/ROM)
 - [15minutOdmora](https://github.com/15minutOdmora/ROM)
-- [DenisBencic](https://github.com/DenisBencic/ROM2)
 - [KlemenSkukan](https://github.com/KlemenSkukan/ROM)
 - [denis123FMF](https://github.com/denis123FMF/ROM)
 - [DomenCebulj](https://github.com/CebuljDomen/ROM)
+- [DenisBencic](https://github.com/DenisBencic/ROM2)
