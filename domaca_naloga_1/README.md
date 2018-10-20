@@ -52,6 +52,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) AliGremLahkoNaWC
 - (3) KonecVaj
 - (4) mitjamori
+- (5) Argonfmf
 - (6) 15minutOdmora
 - (9) DenisBencic
 - (18) Gorlar
@@ -60,6 +61,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) CusinM15
 - (2) KlaraKosec
 - (3) DenisBencic
+- (4) Argonfmf
 - (5) 15minutOdmora
 - (13) Gorlar
 - (25) mitjamori
@@ -68,6 +70,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) CusinM15
 - (2) KlaraKosec
 - ...
+- (6) Argonfmf
 - (7) DenisBencic
 - (8) ZacetekVaj
 - (9) 15minutOdmora
@@ -79,6 +82,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - (3) Gorlar
 - (6) DenisBencic
+- (12) Argonfmf
 
 ### [Učni list - Sorazmerja in odstotki.pdf](https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf)
 - (1) CusinM15
