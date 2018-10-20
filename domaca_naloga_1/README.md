@@ -208,7 +208,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### Učni list - Kotne funkcije - 1.pdf
 - (1) uporabnisko_ime_1
-- (2) mitjamori
+- (2) CusinM15
 - ...
 
 ### Učni list - Kotne funkcije - 2.pdf
