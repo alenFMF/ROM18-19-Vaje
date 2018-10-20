@@ -64,7 +64,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (13) Gorlar
 - (25) mitjamori
 
-### Učni list - Racionalna števila.pdf
+### [Učni list - Racionalna števila.pdf](https://www.sc-nm.si/sss/si/file/download/850_7907fe56caf7/U%C4%8Dni%20list%20-%20Racionalna%20%C5%A1tevila.pdf)
 - (1) CusinM15
 - (2) KlaraKosec
 - ...
