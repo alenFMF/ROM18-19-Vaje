@@ -95,11 +95,13 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) Gorlar
 - (4) DenisBencic
 - (8) ZacetekVaj
+- (11) Argonfmf
 
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
 - (1) DenisBencic
 - (2) KlaraKosec
 - ...
+- (6) Argonfmf
 - (8) ZacetekVaj
 
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
@@ -124,14 +126,16 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2)
 - ...
 
-### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf  
+### [Učni list - Kotne funkcije v pravokotnem trikotniku.pdf](https://www.sc-nm.si/sss/si/file/download/824_4f7a2e4ab138/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20v%20pravokotnem%20trikotniku.pdf)  
 - (1) SmokeyAjax
-- (2) 
+- (2)
+- (3) Argonfmf
 - (14) mitjamori
 - ...
 
-### Učni list - Računanje s koreni.pdf
+### [Učni list - Računanje s koreni.pdf](https://www.sc-nm.si/sss/si/file/download/827_d73e71be4845/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20s%20koreni.pdf)
 - (1) SmokeyAjax
+- (2) Argonfmf
 - (7) Gorlar 
 - ...
 - (12) mitjamori
@@ -210,10 +214,11 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - ...
 
-### Učni list - Kotne funkcije - 1.pdf
+### [Učni list - Kotne funkcije - 1.pdf](https://www.sc-nm.si/sss/file/open/607_ebc9fb02d961/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20-%201.pdf)
 - (1) uporabnisko_ime_1
 - (2) mitjamori
 - ...
+- (19) Argonfmf
 
 ### Učni list - Kotne funkcije - 2.pdf
 - (1) uporabnisko_ime_1
