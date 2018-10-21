@@ -1,4 +1,4 @@
-﻿# ROM18-19-Vaje
+# ROM18-19-Vaje
 
 To je spletni repozitorij za skupno delo na vajah pri predmetu Računalniška orodja v matematiki.
 Na tem repozitoriju so povezave do repozitorijev sodelujočih pri predmetu.
@@ -25,3 +25,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [denis123FMF](https://github.com/denis123FMF/ROM)
 - [DomenCebulj](https://github.com/CebuljDomen/ROM)
 - [DenisBencic](https://github.com/DenisBencic/ROM2)
+-[CusinM15](https://github.com/CusinM15/ROM1)

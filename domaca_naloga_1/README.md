@@ -1,4 +1,4 @@
-﻿# Rezervacije 1. domačih nalog
+# Rezervacije 1. domačih nalog
 
 Vsak študent naj si rezervira 10 nalog iz različnih sklopov nalog.
 Naloge se nahajajo na spletni povezavi
@@ -68,7 +68,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (25) mitjamori
 
 ### Učni list - Racionalna števila.pdf
-- (1) uporabnisko_ime_1
+- (1) CusinM15
 - (2) KlaraKosec
 - ...
 - (7) DenisBencic
@@ -84,12 +84,12 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (6) DenisBencic
 
 ### [Učni list - Sorazmerja in odstotki.pdf](https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf)
-- (1) uporabnisko_ime_1
+- (1) CusinM15
 - (2) KlaraKosec
 - ...
 
 ### [Učni list - Realna števila.pdf](https://www.sc-nm.si/sss/si/file/download/842_2a4e1f474025/U%C4%8Dni%20list%20-%20Realna%20%C5%A1tevila.pdf)
-- (1) uporabnisko_ime_1
+- (1) CusinM15
 - (2) KlaraKosec
 - (3) Gorlar
 - (4) DenisBencic
@@ -211,16 +211,16 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### Učni list - Kotne funkcije - 1.pdf
 - (1) uporabnisko_ime_1
-- (2) mitjamori
+- (2) CusinM15
 - ...
 
 ### Učni list - Kotne funkcije - 2.pdf
-- (1) uporabnisko_ime_1
+- (1) CusinM15
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Lastnosti funkcij.pdf
-- (1) uporabnisko_ime_1
+- (1) CusinM15
 - (2) uporabnisko_ime_2
 - ...
 
@@ -230,7 +230,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - ...
 
 ### Učni list - Odvod - 2.pdf
-- (1) uporabnisko_ime_1
+- (1) CusinM15
 - (2) uporabnisko_ime_2
 - ...
 
@@ -250,17 +250,17 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - ...
 
 ### Učni list - Kombinatorika in verjetnost.pdf
-- (1) uporabnisko_ime_1
+- (1) CusinM15
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Kompleksna števila.pdf
-- (1) uporabnisko_ime_1
+- (1) CusinM15
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Integral.pdf
-- (1) uporabnisko_ime_1
+- (1) CusinM15
 - (2) uporabnisko_ime_2
 - ...
 
