@@ -54,7 +54,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) AliGremLahkoNaWC
 - (3) KonecVaj
 - (4) mitjamori
-- (5) lapajne
+- (5) lapajnea
 - (6) 15minutOdmora
 - (9) DenisBencic
 - (18) Gorlar
@@ -63,7 +63,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) DenisBencic
-- (4) lapajne
+- (4) lapajnea
 - (5) 15minutOdmora
 - (13) Gorlar
 - (25) mitjamori
