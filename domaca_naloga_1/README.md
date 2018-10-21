@@ -102,6 +102,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - (7) lapajnea
 - (8) ZacetekVaj
+- (10) PeterFMF
 
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
 - (1) uporabnisko_ime_1
@@ -113,6 +114,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) mitjamori
 - (5) lapajnea
 - (35) DenisBencic
+- (37) PeterFMF
 
 ### [Učni list - Sistemi linearnih enačb.pdf](https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf)
 - (1) uporabnisko_ime_1
@@ -134,6 +136,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Računanje s koreni.pdf
 - (1) SmokeyAjax
 - (7) Gorlar 
+- (10) PeterFMF
 - ...
 - (12) mitjamori
 
@@ -147,12 +150,14 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - (7) Gorlar
 - (8) ZacetekVaj
+- (10) PeterFMF
 
 
 ### Učni list - Kvadratna funkcija.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - (8) mitjamori
+- (29) PeterFMF
 - (40) Gorlar
 - ...
 
@@ -184,6 +189,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - ...
 - (8) ZacetekVaj
+- (12) PeterFMF
 
 ### Učni list - Polinomi - 1.pdf
 - (1) SmokeyAjax
@@ -204,6 +210,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Racionalna funkcija - 2.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
+- (8) PeterFMF
 - ...
 
 ### Učni list - Statistika.pdf
@@ -214,6 +221,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Kotne funkcije - 1.pdf
 - (1) uporabnisko_ime_1
 - (2) mitjamori
+- (3) PeterFMF
 - ...
 
 ### Učni list - Kotne funkcije - 2.pdf
@@ -229,6 +237,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Odvod - 1.pdf
 - (1) 15minutOdmora
 - (2) uporabnisko_ime_2
+- (26) PeterFMF
 - ...
 
 ### Učni list - Odvod - 2.pdf
@@ -239,6 +248,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Zaporedja.pdf
 - (1) 15minutOdmora
 - (2) uporabnisko_ime_2
+- (10) PeterFMF
 - ...
 
 ### Učni list - Aritmetična zaporedja.pdf
