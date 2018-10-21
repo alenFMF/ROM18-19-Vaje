@@ -43,7 +43,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Deljivost.pdf](https://www.sc-nm.si/sss/si/file/download/860_7c1612944279/U%C4%8Dni%20list%20-%20Deljivost.pdf)
 - (1) KonecVaj
 - (2) AliGremLahkoNaWC
-- ...
 - (11) TPogacar
 - (12) DenisBencic
 - (5) KlaraKosec
