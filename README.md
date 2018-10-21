@@ -6,6 +6,7 @@ Na tem repozitoriju so povezave do repozitorijev sodelujočih pri predmetu.
 V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodelujočih
 
 - [alenFMF](https://github.com/alenFMF/ROM18-19-Vaje)
+- [lapajnea] (https://github.com/lapajnea/ROM)
 - [PeterFMF](https://github.com/PeterFMF/ROM)
 - [leon997](https://github.com/leon997/ROM)
 - [KlaraKosec](https://github.com/KlaraKosec/hzt)
