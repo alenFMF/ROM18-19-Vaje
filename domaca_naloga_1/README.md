@@ -38,6 +38,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (15) DenisBencic
 - (17) Argonfmf
 - (24) Gorlar
+- (21) lapajnea
 
 ### [Učni list - Deljivost.pdf](https://www.sc-nm.si/sss/si/file/download/860_7c1612944279/U%C4%8Dni%20list%20-%20Deljivost.pdf)
 - (1) KonecVaj
@@ -46,12 +47,14 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (11) TPogacar
 - (12) DenisBencic
 - (5) KlaraKosec
+- (7) lapajnea
 
 ### [Učni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
 - (1) KlaraKosec
 - (2) AliGremLahkoNaWC
 - (3) KonecVaj
 - (4) mitjamori
+- (5) lapajne
 - (6) 15minutOdmora
 - (9) DenisBencic
 - (18) Gorlar
@@ -60,6 +63,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) DenisBencic
+- (4) lapajne
 - (5) 15minutOdmora
 - (13) Gorlar
 - (25) mitjamori
