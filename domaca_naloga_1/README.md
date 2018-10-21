@@ -1,4 +1,4 @@
-# Rezervacije 1. domačih nalog
+﻿# Rezervacije 1. domačih nalog
 
 Vsak študent naj si rezervira 10 nalog iz različnih sklopov nalog.
 Naloge se nahajajo na spletni povezavi
@@ -68,7 +68,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (25) mitjamori
 
 ### Učni list - Racionalna števila.pdf
-- (1) CusinM15
+- (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - ...
 - (7) DenisBencic
@@ -82,34 +82,36 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - (3) Gorlar
 - (6) DenisBencic
+- (7) lapajnea
 
 ### [Učni list - Sorazmerja in odstotki.pdf](https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf)
-- (1) CusinM15
+- (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- ...
+- (3) lapajnea
 
 ### [Učni list - Realna števila.pdf](https://www.sc-nm.si/sss/si/file/download/842_2a4e1f474025/U%C4%8Dni%20list%20-%20Realna%20%C5%A1tevila.pdf)
-- (1) CusinM15
+- (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) Gorlar
 - (4) DenisBencic
+- (5) lapajnea
 - (8) ZacetekVaj
 
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
 - (1) DenisBencic
 - (2) KlaraKosec
-- ...
+- (7) lapajnea
 - (8) ZacetekVaj
 
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- ...
+- (3) lapajnea
 
 ### [Učni list - Linearna funkcija.pdf](https://www.sc-nm.si/sss/si/file/download/835_a3b1692363f8/U%C4%8Dni%20list%20-%20Linearna%20funkcija.pdf)
 - (1) ZacetekVaj
 - (2) mitjamori
-- ...
+- (5) lapajnea
 - (35) DenisBencic
 
 ### [Učni list - Sistemi linearnih enačb.pdf](https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf)
@@ -211,16 +213,16 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### Učni list - Kotne funkcije - 1.pdf
 - (1) uporabnisko_ime_1
-- (2) CusinM15
+- (2) mitjamori
 - ...
 
 ### Učni list - Kotne funkcije - 2.pdf
-- (1) CusinM15
+- (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Lastnosti funkcij.pdf
-- (1) CusinM15
+- (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
@@ -230,7 +232,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - ...
 
 ### Učni list - Odvod - 2.pdf
-- (1) CusinM15
+- (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
@@ -250,17 +252,17 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - ...
 
 ### Učni list - Kombinatorika in verjetnost.pdf
-- (1) CusinM15
+- (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Kompleksna števila.pdf
-- (1) CusinM15
+- (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
 ### Učni list - Integral.pdf
-- (1) CusinM15
+- (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 
