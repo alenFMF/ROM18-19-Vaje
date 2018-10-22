@@ -220,6 +220,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - (11) Gorlar
+- (21) petra1111
 
 ### Učni list - Racionalna funkcija - 1.pdf
 - (1) SmokeyAjax
