@@ -1,3 +1,0 @@
-https://github.com/lapajnea/ROM.git
-https://github.com/PeterFMF/ROM.git
-https://github.com/leon997/ROM.git
