@@ -76,7 +76,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Sorazmerja in odstotki.pdf  https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- ...
+- (9) mitjamori
 
 ### Učni list - Realna števila.pdf  https://www.sc-nm.si/sss/si/file/download/842_2a4e1f474025/U%C4%8Dni%20list%20-%20Realna%20%C5%A1tevila.pdf
 - (1) uporabnisko_ime_1
@@ -114,7 +114,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf  
 - (1) SmokeyAjax
 - (2) 
-- (14) mitjamori
 - ...
 
 ### Učni list - Računanje s koreni.pdf
@@ -126,7 +125,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Potence z racionalnim eksponentom.pdf
 - (1) SmokeyAjax
 - (2) 
-- ...
+- (4) mitjamori
 
 ### Učni list - Kvadratna enačba.pdf
 - (1) uporabnisko_ime_1
@@ -199,7 +198,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### Učni list - Kotne funkcije - 1.pdf
 - (1) uporabnisko_ime_1
-- (2) mitjamori
 - ...
 
 ### Učni list - Kotne funkcije - 2.pdf
