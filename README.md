@@ -29,3 +29,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [TeaKn](https://github.com/TeaKn/ROM2)
 - [spelaster](https://github.com/spelaster/ROM)
 - [ursagabrovec](https://github.com/ursagabrovec/ROM1)
+- [jemecema](https://github.com/jemecema/ROM)
