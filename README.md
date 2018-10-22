@@ -6,7 +6,7 @@ Na tem repozitoriju so povezave do repozitorijev sodelujočih pri predmetu.
 V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodelujočih
 
 - [alenFMF](https://github.com/alenFMF/ROM18-19-Vaje)
-- [lapajnea] (https://github.com/lapajnea/ROM)
+- [lapajnea](https://github.com/lapajnea/ROM)
 - [PeterFMF](https://github.com/PeterFMF/ROM)
 - [leon997](https://github.com/leon997/ROM)
 - [KlaraKosec](https://github.com/KlaraKosec/hzt)
@@ -26,6 +26,6 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [DomenCebulj](https://github.com/CebuljDomen/ROM)
 - [DenisBencic](https://github.com/DenisBencic/ROM2)
 - [CusinM15](https://github.com/CusinM15/ROM1)
-- [TeaKn] (https://github.com/TeaKn/ROM2)
+- [TeaKn](https://github.com/TeaKn/ROM2)
 - [spelaster](https://github.com/spelaster/ROM)
 - [ursagabrovec](https://github.com/ursagabrovec/ROM1)
