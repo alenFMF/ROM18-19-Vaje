@@ -27,5 +27,5 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [DenisBencic](https://github.com/DenisBencic/ROM2)
 - [CusinM15](https://github.com/CusinM15/ROM1)
 - [TeaKn] (https://github.com/TeaKn/ROM2)
-- [spelaster] (https://github.com/spelaster/ROM)
+- [spelaster](https://github.com/spelaster/ROM)
 - [ursagabrovec](https://github.com/ursagabrovec/ROM1)
