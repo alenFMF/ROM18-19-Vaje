@@ -249,12 +249,9 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### Učni list - Kotne funkcije - 1.pdf
 - (1) uporabnisko_ime_1
-<<<<<<< HEAD
-=======
-- (2) mitjamori
 - (3) PeterFMF
->>>>>>> 9e0aa94d00a853f595edbab1e9fedc26ae578bb1
-- ...
+
+
 
 ### Učni list - Kotne funkcije - 2.pdf
 - (1) uporabnisko_ime_1
