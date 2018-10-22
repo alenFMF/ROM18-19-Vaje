@@ -228,7 +228,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### Učni list - Racionalna funkcija - 2.pdf
 - (1) SmokeyAjax
-- (2) uporabnisko_ime_2
+- (2) petra1111
 - (8) PeterFMF
 - ...
 
