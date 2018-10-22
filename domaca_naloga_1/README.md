@@ -39,6 +39,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (17) Argonfmf
 - (24) Gorlar
 - (21) lapajnea
+- (22) urskabaskovic
 - (25) ursagabrovec
 
 ### [Učni list - Deljivost.pdf](https://www.sc-nm.si/sss/si/file/download/860_7c1612944279/U%C4%8Dni%20list%20-%20Deljivost.pdf)
@@ -59,6 +60,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (6) 15minutOdmora
 - (7) maja12345678910
 - (9) DenisBencic
+- (11) urskabaskovic
 - (16) ursagabrovec
 - (18) Gorlar
 
@@ -70,6 +72,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) 15minutOdmora
 - (6) ursagabrovec
 - (13) Gorlar
+- (15) urskabaskovic
 - (25) mitjamori
 - (7) maja12345678910
 
@@ -82,6 +85,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (9) 15minutOdmora
 - (38) Gorlar
+- (32) urskabaskovic
 - (33) mitjamori
 - (35) maja12345678910
 
@@ -114,6 +118,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (6) ursagabrovec
 - (7) lapajnea
 - (8) ZacetekVaj
+- (9) urskabaskovic
 - (10) PeterFMF
 
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
@@ -154,7 +159,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (7) Gorlar 
 - (10) PeterFMF
-- ...
+- (11) urskabaskovic
 - (12) mitjamori
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
@@ -177,6 +182,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - (8) mitjamori
 - (29) PeterFMF
+- (39) urskabaskovic
 - (40) Gorlar
 - ...
 
@@ -196,6 +202,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - ...
 - (8) ZacetekVaj
+- (9) urskabaskovic
 
 ### Učni list - Logaritem - 1.pdf
 - (1) uporabnisko_ime_1
@@ -208,6 +215,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - ...
 - (8) ZacetekVaj
+- (11) urskabaskovic
 - (12) PeterFMF
 
 ### Učni list - Polinomi - 1.pdf
@@ -220,6 +228,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - (11) Gorlar
+- (20) urskabaskovic
 - (21) petra1111
 
 ### Učni list - Racionalna funkcija - 1.pdf
