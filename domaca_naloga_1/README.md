@@ -239,12 +239,13 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Racionalna funkcija - 2.pdf
 - (1) SmokeyAjax
 - (2) petra1111
+- (3) 15minutOdmora
 - (8) PeterFMF
 - ...
 
 ### Učni list - Statistika.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) 15minutOdmora
 - ...
 
 ### Učni list - Kotne funkcije - 1.pdf
