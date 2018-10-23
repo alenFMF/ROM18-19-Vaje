@@ -76,6 +76,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (18) Gorlar
 - (10) piploli
 - (13) DjansS
+- (20) BacekJon
 
 ### [Učni list - Računanje z izrazi.pdf](https://www.sc-nm.si/sss/si/file/download/851_b391a4d3b88a/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20z%20izrazi.pdf)
 - (1) uporabnisko_ime_1
@@ -91,6 +92,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (25) mitjamori
 - (7) maja12345678910
 - (8) DjansS
+- (27) BacekJon
 
 ### Učni list - Racionalna števila.pdf
 - (1) uporabnisko_ime_1
@@ -228,18 +230,18 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (39) urskabaskovic
 - (9) Gorlar
 - (28) TeaKn
-- ...
+- (22) BacekJon
 
 ### Učni list - Ploščine geometrijskih likov.pdf
 
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
-- ...
+- (46) BacekJon
 
 ### Učni list - Geometrijska telesa.pdf
 - (1) uporabnisko_ime_1
 - (2) AliGremLahkoNaWC
-- ...
+- (53) BacekJon
 - (6) piploli
 
 ### Učni list - Eksponentna funkcija in enačba.pdf
@@ -260,7 +262,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Logaritem - 2.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
-- ...
+- (13) BacekJon
 - (8) ZacetekVaj
 - (9) KlemenSkukan
 - (10) TeaKn
@@ -272,7 +274,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - (7) mitjamori
 - (8) TeaKn
-- ...
+- (9) BacekJon
 - (3) piploli
 
 ### Učni list - Polinomi - 2.pdf
@@ -294,7 +296,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) petra1111
 - (3) 15minutOdmora
 - (8) PeterFMF
-- ...
+- (5) BacekJon
 
 ### Učni list - Statistika.pdf
 - (1) uporabnisko_ime_1
@@ -355,11 +357,11 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Kompleksna števila.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
-- ...
+- (3) BacekJon
 
 ### Učni list - Integral.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
-- ...
+- (3) BacekJon
 
 Test
