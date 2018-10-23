@@ -216,7 +216,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) mitjamori
 - (29) PeterFMF
 - (39) urskabaskovic
-- (40) Gorlar
+- (9) Gorlar
 - (28) TeaKn
 - ...
 
