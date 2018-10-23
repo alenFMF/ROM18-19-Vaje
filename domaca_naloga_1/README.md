@@ -64,7 +64,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) AliGremLahkoNaWC
 - (3) KonecVaj
 - (4) mitjamori
-- (5) lapajnea
+- (5) lapajnea (5) Argonfmf
 - (6) 15minutOdmora
 - (7) maja12345678910
 - (8) jemecema
@@ -82,7 +82,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) DenisBencic
-- (4) lapajnea
+- (4) lapajnea (4) Argonfmf
 - (5) 15minutOdmora
 - (6) ursagabrovec
 - (13) Gorlar
@@ -94,12 +94,12 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) DjansS
 - (27) BacekJon
 
-### Učni list - Racionalna števila.pdf
+### [Učni list - Racionalna števila.pdf](https://www.sc-nm.si/sss/si/file/download/850_7907fe56caf7/U%C4%8Dni%20list%20-%20Racionalna%20%C5%A1tevila.pdf)
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) ursagabrovec
 - ...
-- (6) KonecVaj
+- (6) KonecVaj (6) Argonfmf
 - (7) DenisBencic
 - (8) ZacetekVaj
 - (9) 15minutOdmora
@@ -116,6 +116,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (6) DenisBencic
 - (7) lapajnea
 - (4) DjansS
+- (12) Argonfmf
 
 ### [Učni list - Sorazmerja in odstotki.pdf](https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf)
 - (1) uporabnisko_ime_1
@@ -135,6 +136,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) lapajnea
 - (8) ZacetekVaj
 - (9) ursagabrovec
+- (11) Argonfmf
 - (14) jemecema
 - (10) KlemenSkukan
 - (6) DjansS
@@ -144,7 +146,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - (4) jemecema
 - (5) maja12345678910
-- (6) ursagabrovec
+- (6) ursagabrovec (6) Argonfmf
 - (7) lapajnea
 - (8) ZacetekVaj
 - (9) urskabaskovic
@@ -191,13 +193,15 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (4) KlemenSkukan
 - (34) jemecema
 
-### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf  
+### [Učni list - Kotne funkcije v pravokotnem trikotniku.pdf](https://www.sc-nm.si/sss/si/file/download/824_4f7a2e4ab138/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20v%20pravokotnem%20trikotniku.pdf)  
 - (1) SmokeyAjax
 - (2) 
-- ...
+- (3) Argonfmf
 - (15) piploli
-### Učni list - Računanje s koreni.pdf
+
+### [Učni list - Računanje s koreni.pdf](https://www.sc-nm.si/sss/si/file/download/827_d73e71be4845/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20s%20koreni.pdf)
 - (1) SmokeyAjax
+- (2) Argonfmf
 - (7) Gorlar 
 - (10) PeterFMF
 - (11) urskabaskovic
@@ -303,9 +307,10 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) 15minutOdmora
 - ...
 
-### Učni list - Kotne funkcije - 1.pdf
+### [Učni list - Kotne funkcije - 1.pdf](https://www.sc-nm.si/sss/file/open/607_ebc9fb02d961/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20-%201.pdf)
 - (1) uporabnisko_ime_1
 - (3) PeterFMF
+- (19) Argonfmf
 
 
 
