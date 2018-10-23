@@ -29,3 +29,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [spelaster](https://github.com/spelaster/ROM)
 - [ursagabrovec](https://github.com/ursagabrovec/ROM1)
 - [jemecema](https://github.com/jemecema/ROM)
+- [piploli](https://github.com/piploli)
