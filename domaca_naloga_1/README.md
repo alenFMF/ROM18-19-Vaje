@@ -59,6 +59,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) lapajnea
 - (6) 15minutOdmora
 - (7) maja12345678910
+- (8) TPogacar
 - (9) DenisBencic
 - (11) urskabaskovic
 - (16) ursagabrovec
@@ -71,6 +72,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (4) lapajnea
 - (5) 15minutOdmora
 - (6) ursagabrovec
+- (7) TPogacar
 - (13) Gorlar
 - (15) urskabaskovic
 - (25) mitjamori
@@ -80,6 +82,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) ursagabrovec
+- (4) TPogacar
 - ...
 - (7) DenisBencic
 - (8) ZacetekVaj
@@ -93,6 +96,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) AliGremLahkoNaWC
 - (2) KlaraKosec
 - (3) Gorlar
+- (4) TPogacar
 - (6) DenisBencic
 - (7) lapajnea
 
@@ -100,6 +104,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) lapajnea
+- (4) TPogacar
 - (9) maja12345678910
 - (18) mitjamori
 
@@ -109,12 +114,14 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) Gorlar
 - (4) DenisBencic
 - (5) lapajnea
+- (6) TPogacar
 - (8) ZacetekVaj
 - (9) ursagabrovec
 
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
 - (1) DenisBencic
 - (2) KlaraKosec
+- (3) TPogacar
 - (5) maja12345678910
 - (6) ursagabrovec
 - (7) lapajnea
@@ -126,12 +133,14 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) lapajnea
+- (4) TPogacar
 - (13) ursagabrovec
 
 ### [Učni list - Linearna funkcija.pdf](https://www.sc-nm.si/sss/si/file/download/835_a3b1692363f8/U%C4%8Dni%20list%20-%20Linearna%20funkcija.pdf)
 - (1) ZacetekVaj
 - (2) mitjamori
 - (3) ursagabrovec
+- (4) TPogacar
 - (5) lapajnea
 - (35) DenisBencic
 - (37) PeterFMF
@@ -141,22 +150,24 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) DenisBencic
 - (3) maja12345678910
+- (4) TPogacar
 - ...
 - (8) ZacetekVaj
 
 ### [Učni list - Geometrija.pdf](https://www.sc-nm.si/sss/si/file/download/908_fa3f990d1fc9/U%C4%8Dni%20list%20-%20Geometrija.pdf)
 - (1) SmokeyAjax
-- (2)
+- (2) TPogacar
 - (5) ursagabrovec
 - (12) maja12345678910
 
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf  
 - (1) SmokeyAjax
-- (2) 
+- (2) TPogacar
 - ...
 
 ### Učni list - Računanje s koreni.pdf
 - (1) SmokeyAjax
+- (2) TPogacar
 - (7) Gorlar 
 - (10) PeterFMF
 - (11) urskabaskovic
@@ -164,7 +175,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
 - (1) SmokeyAjax
-- (2) 
+- (2) TPogacar
 - (4) mitjamori
 
 ### Učni list - Kvadratna enačba.pdf
@@ -175,11 +186,13 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (9) maja12345678910
 - (10) PeterFMF
+- (11) TPogacar
 
 
 ### Učni list - Kvadratna funkcija.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
+- (3) TPogacar
 - (8) mitjamori
 - (29) PeterFMF
 - (39) urskabaskovic
@@ -190,6 +203,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
+- (3) TPogacar
 - ...
 
 ### Učni list - Geometrijska telesa.pdf
