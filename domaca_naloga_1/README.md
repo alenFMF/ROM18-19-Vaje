@@ -39,6 +39,9 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (17) Argonfmf
 - (24) Gorlar
 - (21) lapajnea
+- (22) urskabaskovic
+- (25) ursagabrovec
+- (23) piploli
 
 ### [Učni list - Deljivost.pdf](https://www.sc-nm.si/sss/si/file/download/860_7c1612944279/U%C4%8Dni%20list%20-%20Deljivost.pdf)
 - (1) KonecVaj
@@ -47,6 +50,8 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (12) DenisBencic
 - (5) KlaraKosec
 - (7) lapajnea
+- (6) maja12345678910
+- (8) piploli
 
 ### [Učni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
 - (1) KlaraKosec
@@ -55,9 +60,13 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (4) mitjamori
 - (5) lapajnea
 - (6) 15minutOdmora
+- (7) maja12345678910
 - (9) DenisBencic
-- (11) TeaKn
+- (12) TeaKn
+- (11) urskabaskovic
+- (16) ursagabrovec
 - (18) Gorlar
+- (10) piploli
 
 ### [Učni list - Računanje z izrazi.pdf](https://www.sc-nm.si/sss/si/file/download/851_b391a4d3b88a/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20z%20izrazi.pdf)
 - (1) uporabnisko_ime_1
@@ -65,18 +74,24 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) DenisBencic
 - (4) lapajnea
 - (5) 15minutOdmora
+- (6) ursagabrovec
 - (13) Gorlar
+- (15) urskabaskovic
 - (25) mitjamori
+- (7) maja12345678910
 
 ### Učni list - Racionalna števila.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
+- (3) ursagabrovec
 - ...
 - (7) DenisBencic
 - (8) ZacetekVaj
 - (9) 15minutOdmora
 - (38) Gorlar
+- (32) urskabaskovic
 - (33) mitjamori
+- (35) maja12345678910
 
 ### [Učni list - Decimalna števila.pdf](https://www.sc-nm.si/sss/si/file/download/849_fd9b628c8edd/U%C4%8Dni%20list%20-%20Decimalna%20%C5%A1tevila.pdf)
 - (1) AliGremLahkoNaWC
@@ -89,6 +104,8 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) lapajnea
+- (9) maja12345678910
+- (18) mitjamori
 
 ### [Učni list - Realna števila.pdf](https://www.sc-nm.si/sss/si/file/download/842_2a4e1f474025/U%C4%8Dni%20list%20-%20Realna%20%C5%A1tevila.pdf)
 - (1) uporabnisko_ime_1
@@ -97,12 +114,16 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (4) DenisBencic
 - (5) lapajnea
 - (8) ZacetekVaj
+- (9) ursagabrovec
 
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
 - (1) DenisBencic
 - (2) KlaraKosec
+- (5) maja12345678910
+- (6) ursagabrovec
 - (7) lapajnea
 - (8) ZacetekVaj
+- (9) urskabaskovic
 - (10) PeterFMF
 
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
@@ -110,17 +131,21 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - (3) lapajnea
 - (11) TeaKn
+- (13) ursagabrovec
 
 ### [Učni list - Linearna funkcija.pdf](https://www.sc-nm.si/sss/si/file/download/835_a3b1692363f8/U%C4%8Dni%20list%20-%20Linearna%20funkcija.pdf)
 - (1) ZacetekVaj
 - (2) mitjamori
+- (3) ursagabrovec
 - (5) lapajnea
 - (35) DenisBencic
 - (37) PeterFMF
+- (13) maja12345678910
 
 ### [Učni list - Sistemi linearnih enačb.pdf](https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf)
 - (1) uporabnisko_ime_1
 - (2) DenisBencic
+- (3) maja12345678910
 - ...
 - (7) TeaKn
 - (8) ZacetekVaj
@@ -128,31 +153,35 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Geometrija.pdf](https://www.sc-nm.si/sss/si/file/download/908_fa3f990d1fc9/U%C4%8Dni%20list%20-%20Geometrija.pdf)
 - (1) SmokeyAjax
 - (2)
-- ...
+- (5) ursagabrovec
+- (12) maja12345678910
+- (3) piploli
 
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf  
 - (1) SmokeyAjax
 - (2) 
-- (14) mitjamori
 - ...
-
+- (15) piploli
 ### Učni list - Računanje s koreni.pdf
 - (1) SmokeyAjax
 - (7) Gorlar 
 - (10) PeterFMF
-- ...
+- (11) urskabaskovic
 - (12) mitjamori
 
 ### Učni list - Potence z racionalnim eksponentom.pdf
 - (1) SmokeyAjax
 - (2) 
-- ...
+- (4) mitjamori
 
 ### Učni list - Kvadratna enačba.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
+- (3) ursagabrovec
+- (4) piploli
 - (7) Gorlar
 - (8) ZacetekVaj
+- (9) maja12345678910
 - (10) PeterFMF
 
 
@@ -161,6 +190,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - (8) mitjamori
 - (29) PeterFMF
+- (39) urskabaskovic
 - (40) Gorlar
 - (28) TeaKn
 - ...
@@ -175,12 +205,14 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) AliGremLahkoNaWC
 - ...
+- (6) piploli
 
 ### Učni list - Eksponentna funkcija in enačba.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
 - (8) ZacetekVaj
+- (9) urskabaskovic
 
 ### Učni list - Logaritem - 1.pdf
 - (1) uporabnisko_ime_1
@@ -195,6 +227,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - ...
 - (8) ZacetekVaj
 - (10) TeaKn
+- (11) urskabaskovic
 - (12) PeterFMF
 
 ### Učni list - Polinomi - 1.pdf
@@ -203,12 +236,15 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) mitjamori
 - (8) TeaKn
 - ...
+- (3) piploli
 
 ### Učni list - Polinomi - 2.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - (11) Gorlar
 - (13) TeaKn
+- (20) urskabaskovic
+- (21) petra1111
 
 ### Učni list - Racionalna funkcija - 1.pdf
 - (1) SmokeyAjax
@@ -218,20 +254,21 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### Učni list - Racionalna funkcija - 2.pdf
 - (1) SmokeyAjax
-- (2) uporabnisko_ime_2
+- (2) petra1111
+- (3) 15minutOdmora
 - (8) PeterFMF
 - ...
 
 ### Učni list - Statistika.pdf
 - (1) uporabnisko_ime_1
-- (2) uporabnisko_ime_2
+- (2) 15minutOdmora
 - ...
 
 ### Učni list - Kotne funkcije - 1.pdf
 - (1) uporabnisko_ime_1
-- (2) mitjamori
 - (3) PeterFMF
-- ...
+
+
 
 ### Učni list - Kotne funkcije - 2.pdf
 - (1) uporabnisko_ime_1
@@ -264,11 +301,13 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) 15minutOdmora
 - (2) uporabnisko_ime_2
 - ...
+- (3) piploli
 
 ### Učni list - Geometrijska zaporedja.pdf
 - (1) 15minutOdmora
 - (2) uporabnisko_ime_2
 - ...
+- (3) piploli
 
 ### Učni list - Kombinatorika in verjetnost.pdf
 - (1) uporabnisko_ime_1
