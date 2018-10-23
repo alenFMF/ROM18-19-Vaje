@@ -35,6 +35,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) KlaraKosec
 - (8) ZacetekVaj
 - (9) 15minutOdmora
+- (13) jemecema
 - (14) mitjamori
 - (15) DenisBencic
 - (17) Argonfmf
@@ -54,6 +55,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (6) maja12345678910
 - (8) piploli
 - (9) KlemenSkukan
+- (24) jemecema
 
 ### [Učni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
 - (1) KlaraKosec
@@ -63,6 +65,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) lapajnea
 - (6) 15minutOdmora
 - (7) maja12345678910
+- (8) jemecema
 - (9) DenisBencic
 - (10) KlemenSkukan
 - (12) TeaKn
@@ -81,6 +84,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (13) Gorlar
 - (15) urskabaskovic
 - (16) KlemenSkukan
+- (17) jemecema
 - (25) mitjamori
 - (7) maja12345678910
 
@@ -89,7 +93,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - (3) ursagabrovec
 - ...
-- (6) KonecVaj
 - (7) DenisBencic
 - (8) ZacetekVaj
 - (9) 15minutOdmora
@@ -111,7 +114,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - (3) lapajnea
 - (9) maja12345678910
-- (11) KonecVaj
 - (18) mitjamori
 - (17) KlemenSkukan
 
@@ -123,11 +125,13 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) lapajnea
 - (8) ZacetekVaj
 - (9) ursagabrovec
+- (14) jemecema
 - (10) KlemenSkukan
 
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
 - (1) DenisBencic
 - (2) KlaraKosec
+- (4) jemecema
 - (5) maja12345678910
 - (6) ursagabrovec
 - (7) lapajnea
@@ -148,7 +152,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) mitjamori
 - (3) ursagabrovec
 - (5) lapajnea
-- (6) KonecVaj
+- (22) jemecema
 - (35) DenisBencic
 - (37) PeterFMF
 - (13) maja12345678910
@@ -157,9 +161,10 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) DenisBencic
 - (3) maja12345678910
-- (4) KonecVaj
+- ...
 - (7) TeaKn
 - (8) ZacetekVaj
+- (30) jemecema
 
 ### [Učni list - Geometrija.pdf](https://www.sc-nm.si/sss/si/file/download/908_fa3f990d1fc9/U%C4%8Dni%20list%20-%20Geometrija.pdf)
 - (1) SmokeyAjax
@@ -168,6 +173,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (12) maja12345678910
 - (3) piploli
 - (4) KlemenSkukan
+- (34) jemecema
 
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf  
 - (1) SmokeyAjax
@@ -191,17 +197,16 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - (3) ursagabrovec
 - (4) piploli
-- (5) KonecVaj
 - (7) Gorlar
 - (8) ZacetekVaj
 - (9) maja12345678910
 - (10) PeterFMF
+- (17) jemecema
 
 
 ### Učni list - Kvadratna funkcija.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
-- (3) KonecVaj
 - (8) mitjamori
 - (29) PeterFMF
 - (39) urskabaskovic
@@ -232,7 +237,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - (4) TeaKn
-- (6) KonecVaj
 - ...
 - (8) ZacetekVaj
 
