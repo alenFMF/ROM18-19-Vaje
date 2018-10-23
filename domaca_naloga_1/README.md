@@ -75,7 +75,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (16) ursagabrovec
 - (18) Gorlar
 - (10) piploli
-- (8) DjansS
+- (13) DjansS
 
 ### [Učni list - Računanje z izrazi.pdf](https://www.sc-nm.si/sss/si/file/download/851_b391a4d3b88a/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20z%20izrazi.pdf)
 - (1) uporabnisko_ime_1
@@ -148,7 +148,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (9) urskabaskovic
 - (10) PeterFMF
 - (11) KlemenSkukan
-- (4) DjansS
+- (3) DjansS
 
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
 - (1) uporabnisko_ime_1
