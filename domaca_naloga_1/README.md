@@ -29,6 +29,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Naravna in cela števila.pdf](https://www.sc-nm.si/sss/si/file/download/861_0affa8c3752b/U%C4%8Dni%20list%20-%20Naravna%20in%20cela%20%C5%A1tevila.pdf)
 - (1) KonecVaj
 - (2) AliGremLahkoNaWC
+- (3) KlemenSkukan
 - ...
 - (6) TPogacar
 - (7) KlaraKosec
@@ -52,6 +53,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) lapajnea
 - (6) maja12345678910
 - (8) piploli
+- (9) KlemenSkukan
 
 ### [Učni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
 - (1) KlaraKosec
@@ -62,6 +64,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (6) 15minutOdmora
 - (7) maja12345678910
 - (9) DenisBencic
+- (10) KlemenSkukan
 - (12) TeaKn
 - (11) urskabaskovic
 - (16) ursagabrovec
@@ -77,6 +80,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (6) ursagabrovec
 - (13) Gorlar
 - (15) urskabaskovic
+- (16) KlemenSkukan
 - (25) mitjamori
 - (7) maja12345678910
 
@@ -88,6 +92,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) DenisBencic
 - (8) ZacetekVaj
 - (9) 15minutOdmora
+- (10) KlemenSkukan
 - (38) Gorlar
 - (32) urskabaskovic
 - (33) mitjamori
@@ -106,6 +111,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) lapajnea
 - (9) maja12345678910
 - (18) mitjamori
+- (17) KlemenSkukan
 
 ### [Učni list - Realna števila.pdf](https://www.sc-nm.si/sss/si/file/download/842_2a4e1f474025/U%C4%8Dni%20list%20-%20Realna%20%C5%A1tevila.pdf)
 - (1) uporabnisko_ime_1
@@ -115,6 +121,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) lapajnea
 - (8) ZacetekVaj
 - (9) ursagabrovec
+- (10) KlemenSkukan
 
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
 - (1) DenisBencic
@@ -125,6 +132,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (9) urskabaskovic
 - (10) PeterFMF
+- (11) KlemenSkukan
 
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
 - (1) uporabnisko_ime_1
@@ -156,6 +164,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) ursagabrovec
 - (12) maja12345678910
 - (3) piploli
+- (4) KlemenSkukan
 
 ### Učni list - Kotne funkcije v pravokotnem trikotniku.pdf  
 - (1) SmokeyAjax
@@ -226,6 +235,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - ...
 - (8) ZacetekVaj
+- (9) KlemenSkukan
 - (10) TeaKn
 - (11) urskabaskovic
 - (12) PeterFMF
