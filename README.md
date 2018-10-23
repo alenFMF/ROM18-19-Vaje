@@ -33,3 +33,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [DjansS](https://github.com/DjansS)
 - [petra1111](https://github.com/petra1111/ROM)
 - [gorlar](https://github.com/gorlar/ROM.git)
+- [urskabaskovic](https://github.com/urskabaskovic/ROM)
