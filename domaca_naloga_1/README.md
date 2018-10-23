@@ -93,6 +93,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - (3) ursagabrovec
 - ...
+- (6) KonecVaj
 - (7) DenisBencic
 - (8) ZacetekVaj
 - (9) 15minutOdmora
@@ -114,6 +115,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - (3) lapajnea
 - (9) maja12345678910
+- (11) KonecVaj
 - (18) mitjamori
 - (17) KlemenSkukan
 
@@ -152,6 +154,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) mitjamori
 - (3) ursagabrovec
 - (5) lapajnea
+- (6) KonecVaj
 - (22) jemecema
 - (35) DenisBencic
 - (37) PeterFMF
@@ -161,6 +164,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) DenisBencic
 - (3) maja12345678910
+- (4) KonecVaj
 - ...
 - (7) TeaKn
 - (8) ZacetekVaj
@@ -197,6 +201,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - (3) ursagabrovec
 - (4) piploli
+- (5) KonecVaj
 - (7) Gorlar
 - (8) ZacetekVaj
 - (9) maja12345678910
@@ -207,6 +212,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Kvadratna funkcija.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
+- (3) KonecVaj
 - (8) mitjamori
 - (29) PeterFMF
 - (39) urskabaskovic
@@ -238,6 +244,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - (4) TeaKn
 - ...
+- (6) KonecVaj
 - (8) ZacetekVaj
 
 ### Učni list - Logaritem - 2.pdf
