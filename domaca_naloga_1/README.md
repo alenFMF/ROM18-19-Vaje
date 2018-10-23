@@ -4,7 +4,7 @@ Vsak študent naj si rezervira 10 nalog iz različnih sklopov nalog.
 Naloge se nahajajo na spletni povezavi
 https://www.sc-nm.si/sss/aktivnosti/gradiva/mat .
 Nalogo si rezerviraš tako, da vpišeš alinejo oblike: 
-
+ 
 ```
 - (št.naloge) uporabniško_ime
 ```
