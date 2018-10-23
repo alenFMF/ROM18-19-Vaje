@@ -56,6 +56,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) lapajnea
 - (6) 15minutOdmora
 - (9) DenisBencic
+- (11) TeaKn
 - (18) Gorlar
 
 ### [Učni list - Računanje z izrazi.pdf](https://www.sc-nm.si/sss/si/file/download/851_b391a4d3b88a/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20z%20izrazi.pdf)
@@ -108,6 +109,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) lapajnea
+- (11) TeaKn
 
 ### [Učni list - Linearna funkcija.pdf](https://www.sc-nm.si/sss/si/file/download/835_a3b1692363f8/U%C4%8Dni%20list%20-%20Linearna%20funkcija.pdf)
 - (1) ZacetekVaj
@@ -120,6 +122,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) DenisBencic
 - ...
+- (7) TeaKn
 - (8) ZacetekVaj
 
 ### [Učni list - Geometrija.pdf](https://www.sc-nm.si/sss/si/file/download/908_fa3f990d1fc9/U%C4%8Dni%20list%20-%20Geometrija.pdf)
@@ -159,6 +162,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) mitjamori
 - (29) PeterFMF
 - (40) Gorlar
+- (28) TeaKn
 - ...
 
 ### Učni list - Ploščine geometrijskih likov.pdf
@@ -181,6 +185,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Logaritem - 1.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
+- (4) TeaKn
 - ...
 - (8) ZacetekVaj
 
@@ -189,23 +194,27 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - ...
 - (8) ZacetekVaj
+- (10) TeaKn
 - (12) PeterFMF
 
 ### Učni list - Polinomi - 1.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - (7) mitjamori
+- (8) TeaKn
 - ...
 
 ### Učni list - Polinomi - 2.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - (11) Gorlar
+- (13) TeaKn
 
 ### Učni list - Racionalna funkcija - 1.pdf
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - ...
+- (7) TeaKn
 
 ### Učni list - Racionalna funkcija - 2.pdf
 - (1) SmokeyAjax
@@ -265,6 +274,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
+- (5) TeaKn
 
 ### Učni list - Kompleksna števila.pdf
 - (1) uporabnisko_ime_1
