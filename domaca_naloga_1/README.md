@@ -44,6 +44,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (22) urskabaskovic
 - (25) ursagabrovec
 - (23) piploli
+- (5) DjansS
 
 ### [Učni list - Deljivost.pdf](https://www.sc-nm.si/sss/si/file/download/860_7c1612944279/U%C4%8Dni%20list%20-%20Deljivost.pdf)
 - (1) KonecVaj
@@ -56,6 +57,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) piploli
 - (9) KlemenSkukan
 - (24) jemecema
+- (3) DjansS
 
 ### [Učni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
 - (1) KlaraKosec
@@ -73,6 +75,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (16) ursagabrovec
 - (18) Gorlar
 - (10) piploli
+- (8) DjansS
 
 ### [Učni list - Računanje z izrazi.pdf](https://www.sc-nm.si/sss/si/file/download/851_b391a4d3b88a/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20z%20izrazi.pdf)
 - (1) uporabnisko_ime_1
@@ -87,6 +90,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (17) jemecema
 - (25) mitjamori
 - (7) maja12345678910
+- (8) DjansS
 
 ### Učni list - Racionalna števila.pdf
 - (1) uporabnisko_ime_1
@@ -109,6 +113,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) Gorlar
 - (6) DenisBencic
 - (7) lapajnea
+- (4) DjansS
 
 ### [Učni list - Sorazmerja in odstotki.pdf](https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf)
 - (1) uporabnisko_ime_1
@@ -118,6 +123,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (11) KonecVaj
 - (18) mitjamori
 - (17) KlemenSkukan
+- (4) DjansS
 
 ### [Učni list - Realna števila.pdf](https://www.sc-nm.si/sss/si/file/download/842_2a4e1f474025/U%C4%8Dni%20list%20-%20Realna%20%C5%A1tevila.pdf)
 - (1) uporabnisko_ime_1
@@ -129,6 +135,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (9) ursagabrovec
 - (14) jemecema
 - (10) KlemenSkukan
+- (6) DjansS
 
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
 - (1) DenisBencic
@@ -141,6 +148,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (9) urskabaskovic
 - (10) PeterFMF
 - (11) KlemenSkukan
+- (4) DjansS
 
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
 - (1) uporabnisko_ime_1
@@ -148,6 +156,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) lapajnea
 - (11) TeaKn
 - (13) ursagabrovec
+- (5) DjansS
 
 ### [Učni list - Linearna funkcija.pdf](https://www.sc-nm.si/sss/si/file/download/835_a3b1692363f8/U%C4%8Dni%20list%20-%20Linearna%20funkcija.pdf)
 - (1) ZacetekVaj
@@ -159,6 +168,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (35) DenisBencic
 - (37) PeterFMF
 - (13) maja12345678910
+- (7) DjansS
 
 ### [Učni list - Sistemi linearnih enačb.pdf](https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf)
 - (1) uporabnisko_ime_1
