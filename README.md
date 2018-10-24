@@ -36,3 +36,5 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [urskabaskovic](https://github.com/urskabaskovic/ROM)
 - [mitjamori](https://github.com/mitjamori/ROM.git)
 - [primer](https://github.com/alenFMF/ROM18-19-Vaje)
+- [domjanic77](https://github.com/domjanic77/ROM)
+
