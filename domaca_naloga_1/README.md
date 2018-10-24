@@ -30,6 +30,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) KonecVaj
 - (2) AliGremLahkoNaWC
 - (3) KlemenSkukan
+- (4) MilicaNedovic
 - (5) DjansS
 - (6) TPogacar
 - (7) KlaraKosec
@@ -75,6 +76,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (12) TeaKn
 - (13) DjansS
 - (14) PeterStatevskiTheStarBoy
+- (15) Milica Nedovic
 - (16) ursagabrovec
 - (18) Gorlar
 - (20) BacekJon
@@ -95,6 +97,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (27) BacekJon
 
 ### [Učni list - Racionalna števila.pdf](https://www.sc-nm.si/sss/si/file/download/850_7907fe56caf7/U%C4%8Dni%20list%20-%20Racionalna%20%C5%A1tevila.pdf)
+- (1) MilicaNedovic
 - (2) KlaraKosec
 - (3) ursagabrovec
 - (6) KonecVaj (6) Argonfmf
@@ -115,6 +118,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) PeterStatevskiTheStarBoy
 - (6) DenisBencic
 - (7) lapajnea
+- (8) MilicaNedovic
 - (12) Argonfmf
 ### [Učni list - Sorazmerja in odstotki.pdf](https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf)
 - (2) KlaraKosec
@@ -125,6 +129,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (17) KlemenSkukan
 - (18) mitjamori
 ### [Učni list - Realna števila.pdf](https://www.sc-nm.si/sss/si/file/download/842_2a4e1f474025/U%C4%8Dni%20list%20-%20Realna%20%C5%A1tevila.pdf)
+- (1) MilicaNedovic
 - (2) KlaraKosec
 - (3) Gorlar
 - (4) DenisBencic
@@ -163,6 +168,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) lapajnea
 - (6) KonecVaj
 - (7) DjansS
+- (8) MilicaNedovic
 - (13) maja12345678910
 - (22) jemecema
 - (35) DenisBencic
@@ -192,6 +198,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Računanje s koreni.pdf](https://www.sc-nm.si/sss/si/file/download/827_d73e71be4845/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20s%20koreni.pdf)
 - (1) SmokeyAjax
 - (2) Argonfmf
+- (3) MilicaNedovic
 - (7) Gorlar 
 - (10) PeterFMF
 - (11) urskabaskovic
@@ -232,10 +239,12 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (53) BacekJon
 
 ### [Učni list - Eksponentna funkcija in enačba.pdf](https://www.sc-nm.si/sss/si/file/download/875_0c838263b05b/U%C4%8Dni%20list%20-%20Eksponentna%20funkcija%20in%20ena%C4%8Dba.pdf)
+- (1) MilicaNedovic
 - (8) ZacetekVaj
 - (9) urskabaskovic
 
 ### [Učni list - Logaritem - 1.pdf](https://www.sc-nm.si/sss/file/open/620_6c5a3dc26891/U%C4%8Dni%20list%20-%20Logaritem%20-%201.pdf)
+- (1) MilicaNedovic
 - (4) TeaKn
 - (6) KonecVaj
 - (8) ZacetekVaj
@@ -278,6 +287,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (4) PeterStatevskiTheStarBoy
 
 ### [Učni list - Kotne funkcije - 1.pdf](https://www.sc-nm.si/sss/file/open/607_ebc9fb02d961/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20-%201.pdf)
+- (1) MilicaNedovic
 - (3) PeterFMF
 - (4) PeterStatevskiTheStarBoy
 - (19) Argonfmf
