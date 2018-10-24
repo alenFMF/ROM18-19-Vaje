@@ -39,3 +39,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [PeterStatevskiTheStarBoy](https://github.com/PeterStatevskiTheStarBoy/ROM)
 - [MilicaNedovic](https://github.com/micanedovic95/ROM5.git)
 - [JensterleI](https://github.com/JensterleI/ROM)
+- [magicdadi](https://github.com/magicdadi)
