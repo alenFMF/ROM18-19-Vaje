@@ -37,4 +37,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [mitjamori](https://github.com/mitjamori/ROM.git)
 - [domjanic77](https://github.com/domjanic77/ROM)
 - [PeterStatevskiTheStarBoy](https://github.com/PeterStatevskiTheStarBoy/ROM)
-
+- [MilicaNedovic](https://github.com/micanedovic95/ROM5.git)
