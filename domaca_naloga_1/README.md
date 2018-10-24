@@ -40,6 +40,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (13) jemecema
 - (14) mitjamori
 - (15) DenisBencic
+- (18) spelaster
 - (17) Argonfmf
 - (21) lapajnea
 - (22) urskabaskovic
@@ -95,6 +96,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (15) urskabaskovic
 - (16) KlemenSkukan
 - (17) jemecema
+- (18) spelaster
 - (25) mitjamori
 - (27) BacekJon
 
@@ -162,6 +164,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
 - (2) KlaraKosec
 - (3) lapajnea
+- (4) spelaster
 - (5) DjansS
 - (11) TeaKn
 - (13) ursagabrovec
@@ -224,6 +227,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (9) maja12345678910
 - (10) PeterFMF
+- (16) spelaster
 - (17) jemecema
 
 
@@ -240,11 +244,13 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Ploščine geometrijskih likov.pdf](https://www.sc-nm.si/sss/si/file/download/790_96f4e0ca1618/U%C4%8Dni%20list%20-%20Plo%C5%A1%C4%8Dine%20geometrijskih%20likov.pdf)
 - (1) SmokeyAjax
 - (46) BacekJon
+- (47) spelaster
 
 ### [Učni list - Geometrijska telesa.pdf](https://www.sc-nm.si/sss/si/file/download/910_20110ab1fba1/U%C4%8Dni%20list%20-%20Geometrijska%20telesa.pdf)
 - (2) AliGremLahkoNaWC
 - (6) piploli
 - (53) BacekJon
+- (64) spelaster
 
 ### [Učni list - Eksponentna funkcija in enačba.pdf](https://www.sc-nm.si/sss/si/file/download/875_0c838263b05b/U%C4%8Dni%20list%20-%20Eksponentna%20funkcija%20in%20ena%C4%8Dba.pdf)
 - (1) MilicaNedovic
@@ -268,6 +274,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Polinomi - 1.pdf](https://www.sc-nm.si/sss/file/open/599_bb49bdbafe02/U%C4%8Dni%20list%20-%20Polinomi%20-%201.pdf)
 - (1) SmokeyAjax
 - (3) piploli
+- (6) spelaster
 - (7) mitjamori
 - (8) TeaKn
 - (9) BacekJon
@@ -300,6 +307,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) MilicaNedovic
 - (3) PeterFMF
 - (4) PeterStatevskiTheStarBoy
+- (18) spelaster
 - (19) Argonfmf
 
 ### [Učni list - Kotne funkcije - 2.pdf](https://www.sc-nm.si/sss/file/open/615_b422a31ead54/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20-%202.pdf)
@@ -322,6 +330,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) 15minutOdmora
 - (4) PeterStatevskiTheStarBoy
 - (5) domjanic77
+- (8) spelaster
 - (10) PeterFMF
 
 ### [Učni list - Aritmetična zaporedja.pdf](https://www.sc-nm.si/sss/file/open/674_10a6c0649077/U%C4%8Dni%20list%20-%20Aritmeti%C4%8Dna%20zaporedja.pdf)
@@ -339,6 +348,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) BacekJon
 
 ### [Učni list - Integral.pdf](https://www.sc-nm.si/sss/file/open/663_3a39c60b8f0c/U%C4%8Dni%20list%20-%20Integral.pdf)
+- (1) spelaster
 - (3) BacekJon
 
 Test
