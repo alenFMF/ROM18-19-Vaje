@@ -36,6 +36,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) KlaraKosec
 - (8) ZacetekVaj
 - (9) 15minutOdmora
+- (10) domjanic77
 - (13) jemecema
 - (14) mitjamori
 - (15) DenisBencic
@@ -78,6 +79,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (14) PeterStatevskiTheStarBoy
 - (15) Milica Nedovic
 - (16) ursagabrovec
+- (17) domjanic77
 - (18) Gorlar
 - (20) BacekJon
 
@@ -124,10 +126,12 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - (3) lapajnea
 - (4) DjansS
+- (5) domjanic77
 - (9) maja12345678910
 - (11) KonecVaj
 - (17) KlemenSkukan
 - (18) mitjamori
+
 ### [Učni list - Realna števila.pdf](https://www.sc-nm.si/sss/si/file/download/842_2a4e1f474025/U%C4%8Dni%20list%20-%20Realna%20%C5%A1tevila.pdf)
 - (1) MilicaNedovic
 - (2) KlaraKosec
@@ -153,6 +157,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (9) urskabaskovic
 - (10) PeterFMF
 - (11) KlemenSkukan
+- (12) domjanic77
 
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
 - (2) KlaraKosec
@@ -175,6 +180,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (37) PeterFMF
 
 ### [Učni list - Sistemi linearnih enačb.pdf](https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf)
+- (1) domjanic77
 - (2) DenisBencic
 - (3) maja12345678910
 - (4) KonecVaj
@@ -199,6 +205,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (2) Argonfmf
 - (3) MilicaNedovic
+- (6) domjanic77
 - (7) Gorlar 
 - (10) PeterFMF
 - (11) urskabaskovic
@@ -212,6 +219,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) ursagabrovec
 - (4) piploli
 - (5) KonecVaj
+- (6) domjanic77
 - (7) Gorlar
 - (8) ZacetekVaj
 - (9) maja12345678910
@@ -263,6 +271,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) mitjamori
 - (8) TeaKn
 - (9) BacekJon
+- (10) domjanic77
 
 ### [Učni list - Polinomi - 2.pdf](https://www.sc-nm.si/sss/si/file/download/788_0fdf4f486b6d/U%C4%8Dni%20list%20-%20Polinomi%20-%202.pdf)
 - (1) SmokeyAjax
@@ -274,6 +283,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Racionalna funkcija - 1.pdf](https://www.sc-nm.si/sss/file/open/584_3135100d7326/U%C4%8Dni%20list%20-%20Racionalna%20funkcija-1.pdf)
 - (1) SmokeyAjax
 - (7) TeaKn
+- (9) domjanic77
 
 ### [Učni list - Racionalna funkcija - 2.pdf](https://www.sc-nm.si/sss/file/open/590_6383086e26b5/U%C4%8Dni%20list%20-%20Racionalna%20funkcija-2.pdf)
 - (1) SmokeyAjax
@@ -311,6 +321,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Zaporedja.pdf](https://www.sc-nm.si/sss/file/open/669_807cd44dbba4/U%C4%8Dni%20list%20-%20Zaporedja.pdf)
 - (1) 15minutOdmora
 - (4) PeterStatevskiTheStarBoy
+- (5) domjanic77
 - (10) PeterFMF
 
 ### [Učni list - Aritmetična zaporedja.pdf](https://www.sc-nm.si/sss/file/open/674_10a6c0649077/U%C4%8Dni%20list%20-%20Aritmeti%C4%8Dna%20zaporedja.pdf)
