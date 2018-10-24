@@ -67,3 +67,27 @@
 [submodule "repozitoriji/jemecema"]
 	path = repozitoriji/jemecema
 	url = https://github.com/jemecema/ROM.git
+[submodule "repozitoriji/piploli"]
+	path = repozitoriji/piploli
+	url = https://github.com/piploli/ROM2.git
+[submodule "repozitoriji/DjansS"]
+	path = repozitoriji/DjansS
+	url = https://github.com/DjansS/ROM1.git
+[submodule "repozitoriji/petra1111"]
+	path = repozitoriji/petra1111
+	url = https://github.com/petra1111/ROM.git
+[submodule "repozitoriji/gorlar"]
+	path = repozitoriji/gorlar
+	url = https://github.com/gorlar/ROM.git
+[submodule "repozitoriji/urskabaskovic"]
+	path = repozitoriji/urskabaskovic
+	url = https://github.com/urskabaskovic/ROM.git
+[submodule "repozitoriji/mitjamori"]
+	path = repozitoriji/mitjamori
+	url = https://github.com/mitjamori/ROM.git
+[submodule "repozitoriji/domjanic77"]
+	path = repozitoriji/domjanic77
+	url = https://github.com/domjanic77/ROM.git
+[submodule "repozitoriji/AliGremLahkoNaWC"]
+	path = repozitoriji/AliGremLahkoNaWC
+	url = https://github.com/AliGremLahkoNaWC/ROM.git

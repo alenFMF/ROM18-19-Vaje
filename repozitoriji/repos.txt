@@ -8,10 +8,7 @@ https://github.com/KonecVaj/ROM.git
 https://github.com/SmokeyAjax/ROM.git
 https://github.com/Argonfmf/ROM.git
 https://github.com/Errick0/ROM.git
-https://github.com/AliGremLahkoNaWC.git
-https://github.com/Argonfmf/ROM.git
-https://github.com/Errick0/ROM.git
-https://github.com/AliGremLahkoNaWC.git
+https://github.com/AliGremLahkoNaWC/ROM.git
 https://github.com/Peterkac/ROM.git
 https://github.com/BacekJon/ROM.git
 https://github.com/15minutOdmora/ROM.git
@@ -24,3 +21,10 @@ https://github.com/TeaKn/ROM2.git
 https://github.com/spelaster/ROM.git
 https://github.com/ursagabrovec/ROM1.git
 https://github.com/jemecema/ROM.git
+https://github.com/piploli/ROM2.git
+https://github.com/DjansS/ROM1.git
+https://github.com/petra1111/ROM.git
+https://github.com/gorlar/ROM.git
+https://github.com/urskabaskovic/ROM.git
+https://github.com/mitjamori/ROM.git
+https://github.com/domjanic77/ROM.git
