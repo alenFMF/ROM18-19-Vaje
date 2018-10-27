@@ -266,6 +266,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### [Učni list - Logaritem - 2.pdf](https://www.sc-nm.si/sss/file/open/720_d3042caaa069/U%C4%8Dni%20list%20-%20Logaritem%20-%202.pdf)
 - (4) PeterStatevskiTheStarBoy
+- (7) petra1111
 - (8) ZacetekVaj
 - (9) KlemenSkukan
 - (10) TeaKn
