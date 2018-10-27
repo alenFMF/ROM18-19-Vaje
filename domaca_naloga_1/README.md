@@ -239,6 +239,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (22) BacekJon
 - (28) TeaKn
 - (29) PeterFMF
+- (35) petra1111
 - (39) urskabaskovic
 
 ### [Učni list - Ploščine geometrijskih likov.pdf](https://www.sc-nm.si/sss/si/file/download/790_96f4e0ca1618/U%C4%8Dni%20list%20-%20Plo%C5%A1%C4%8Dine%20geometrijskih%20likov.pdf)
