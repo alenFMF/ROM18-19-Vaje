@@ -210,6 +210,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) MilicaNedovic
 - (6) domjanic77
 - (7) Gorlar 
+- (8) petra1111
 - (10) PeterFMF
 - (11) urskabaskovic
 - (12) mitjamori
