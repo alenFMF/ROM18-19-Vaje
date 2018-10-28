@@ -257,6 +257,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) MilicaNedovic
 - (8) ZacetekVaj
 - (9) urskabaskovic
+- (12) petra1111
 
 ### [Učni list - Logaritem - 1.pdf](https://www.sc-nm.si/sss/file/open/620_6c5a3dc26891/U%C4%8Dni%20list%20-%20Logaritem%20-%201.pdf)
 - (1) MilicaNedovic
