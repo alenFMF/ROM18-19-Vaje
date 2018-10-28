@@ -92,6 +92,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (6) ursagabrovec
 - (7) maja12345678910
 - (8) DjansS
+- (12) domjanic77
 - (13) Gorlar
 - (15) urskabaskovic
 - (16) KlemenSkukan
@@ -159,7 +160,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (9) urskabaskovic
 - (10) PeterFMF
 - (11) KlemenSkukan
-- (12) domjanic77
 
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
 - (2) KlaraKosec
