@@ -314,6 +314,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (4) PeterStatevskiTheStarBoy
 - (18) spelaster
 - (19) Argonfmf
+- (22) petra1111
 
 ### [Učni list - Kotne funkcije - 2.pdf](https://www.sc-nm.si/sss/file/open/615_b422a31ead54/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20-%202.pdf)
 - (4) PeterStatevskiTheStarBoy
