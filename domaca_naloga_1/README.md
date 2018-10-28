@@ -218,6 +218,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Potence z racionalnim eksponentom.pdf](https://www.sc-nm.si/sss/si/file/download/828_6210b4708ab3/U%C4%8Dni%20list%20-%20Potence%20z%20racionalnim%20eksponentom.pdf)
 - (1) SmokeyAjax
 - (4) mitjamori
+- (5) petra1111
 
 ### [Učni list - Kvadratna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/761_c78a25b65160/U%C4%8Dni%20list%20-%20Kvadratna%20ena%C4%8Dba.pdf)
 - (3) ursagabrovec
