@@ -125,6 +125,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) lapajnea
 - (8) MilicaNedovic
 - (12) Argonfmf
+- (13) Errick0
 ### [Učni list - Sorazmerja in odstotki.pdf](https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf)
 - (2) KlaraKosec
 - (3) lapajnea
@@ -147,7 +148,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (10) KlemenSkukan
 - (11) Argonfmf
 - (14) jemecema
-
+- (13) Errick0
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
 - (1) DenisBencic
 - (2) KlaraKosec
@@ -191,7 +192,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) TeaKn
 - (8) ZacetekVaj
 - (30) jemecema
-
+- (13) Errick0
 ### [Učni list - Geometrija.pdf](https://www.sc-nm.si/sss/si/file/download/908_fa3f990d1fc9/U%C4%8Dni%20list%20-%20Geometrija.pdf)
 - (1) SmokeyAjax
 - (3) piploli
@@ -216,7 +217,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (10) PeterFMF
 - (11) urskabaskovic
 - (12) mitjamori
-
+ - (13) Errick0
 ### [Učni list - Potence z racionalnim eksponentom.pdf](https://www.sc-nm.si/sss/si/file/download/828_6210b4708ab3/U%C4%8Dni%20list%20-%20Potence%20z%20racionalnim%20eksponentom.pdf)
 - (1) SmokeyAjax
 - (4) mitjamori
@@ -234,7 +235,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (10) PeterFMF
 - (16) spelaster
 - (17) jemecema
-
+- (13) Errick0
 
 ### [Učni list - Kvadratna funkcija.pdf](https://www.sc-nm.si/sss/file/open/763_ef3adea10a46/U%C4%8Dni%20list%20-%20Kvadratna%20funkcija.pdf)
 - (1) SmokeyAjax
@@ -246,12 +247,13 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (29) PeterFMF
 - (35) petra1111
 - (39) urskabaskovic
+- (13) Errick0
 
 ### [Učni list - Ploščine geometrijskih likov.pdf](https://www.sc-nm.si/sss/si/file/download/790_96f4e0ca1618/U%C4%8Dni%20list%20-%20Plo%C5%A1%C4%8Dine%20geometrijskih%20likov.pdf)
 - (1) SmokeyAjax
 - (46) BacekJon
 - (47) spelaster
-
+- (13) Errick0
 ### [Učni list - Geometrijska telesa.pdf](https://www.sc-nm.si/sss/si/file/download/910_20110ab1fba1/U%C4%8Dni%20list%20-%20Geometrijska%20telesa.pdf)
 - (2) AliGremLahkoNaWC
 - (6) piploli
@@ -267,7 +269,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) MilicaNedovic
 - (4) TeaKn
 - (6) KonecVaj
-
+- (13) Errick0
 ### [Učni list - Logaritem - 2.pdf](https://www.sc-nm.si/sss/file/open/720_d3042caaa069/U%C4%8Dni%20list%20-%20Logaritem%20-%202.pdf)
 - (4) PeterStatevskiTheStarBoy
 - (7) petra1111
