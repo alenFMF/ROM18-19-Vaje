@@ -222,6 +222,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) petra1111
 
 ### [Učni list - Kvadratna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/761_c78a25b65160/U%C4%8Dni%20list%20-%20Kvadratna%20ena%C4%8Dba.pdf)
+- (2) petra1111
 - (3) ursagabrovec
 - (4) piploli
 - (5) KonecVaj
