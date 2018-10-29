@@ -292,6 +292,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (13) TeaKn
 - (20) urskabaskovic
 - (21) petra1111
+- (10) ZačetekVaj
 
 ### [Učni list - Racionalna funkcija - 1.pdf](https://www.sc-nm.si/sss/file/open/584_3135100d7326/U%C4%8Dni%20list%20-%20Racionalna%20funkcija-1.pdf)
 - (1) SmokeyAjax
