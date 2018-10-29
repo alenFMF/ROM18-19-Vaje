@@ -267,12 +267,10 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) MilicaNedovic
 - (4) TeaKn
 - (6) KonecVaj
-- (8) ZacetekVaj
 
 ### [Učni list - Logaritem - 2.pdf](https://www.sc-nm.si/sss/file/open/720_d3042caaa069/U%C4%8Dni%20list%20-%20Logaritem%20-%202.pdf)
 - (4) PeterStatevskiTheStarBoy
 - (7) petra1111
-- (8) ZacetekVaj
 - (9) KlemenSkukan
 - (10) TeaKn
 - (11) urskabaskovic
@@ -286,6 +284,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) TeaKn
 - (9) BacekJon
 - (10) domjanic77
+- (13) ZačetekVaj
 
 ### [Učni list - Polinomi - 2.pdf](https://www.sc-nm.si/sss/si/file/download/788_0fdf4f486b6d/U%C4%8Dni%20list%20-%20Polinomi%20-%202.pdf)
 - (1) SmokeyAjax
