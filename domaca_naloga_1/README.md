@@ -40,8 +40,8 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (13) jemecema
 - (14) mitjamori
 - (15) DenisBencic
-- (18) spelaster
 - (17) Argonfmf
+- (18) spelaster
 - (21) lapajnea
 - (22) urskabaskovic
 - (23) piploli
