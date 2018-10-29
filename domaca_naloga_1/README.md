@@ -199,6 +199,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) ursagabrovec
 - (12) maja12345678910
 - (34) jemecema
+- (64) sterspela
 
 ### [Učni list - Kotne funkcije v pravokotnem trikotniku.pdf](https://www.sc-nm.si/sss/si/file/download/824_4f7a2e4ab138/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20v%20pravokotnem%20trikotniku.pdf)  
 - (1) SmokeyAjax
@@ -254,7 +255,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Geometrijska telesa.pdf](https://www.sc-nm.si/sss/si/file/download/910_20110ab1fba1/U%C4%8Dni%20list%20-%20Geometrijska%20telesa.pdf)
 - (2) AliGremLahkoNaWC
 - (6) piploli
-- (8) spelaster
 - (53) BacekJon
 
 ### [Učni list - Eksponentna funkcija in enačba.pdf](https://www.sc-nm.si/sss/si/file/download/875_0c838263b05b/U%C4%8Dni%20list%20-%20Eksponentna%20funkcija%20in%20ena%C4%8Dba.pdf)
