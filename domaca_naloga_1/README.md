@@ -254,8 +254,8 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Geometrijska telesa.pdf](https://www.sc-nm.si/sss/si/file/download/910_20110ab1fba1/U%C4%8Dni%20list%20-%20Geometrijska%20telesa.pdf)
 - (2) AliGremLahkoNaWC
 - (6) piploli
+- (8) spelaster
 - (53) BacekJon
-- (64) spelaster
 
 ### [Učni list - Eksponentna funkcija in enačba.pdf](https://www.sc-nm.si/sss/si/file/download/875_0c838263b05b/U%C4%8Dni%20list%20-%20Eksponentna%20funkcija%20in%20ena%C4%8Dba.pdf)
 - (1) MilicaNedovic
