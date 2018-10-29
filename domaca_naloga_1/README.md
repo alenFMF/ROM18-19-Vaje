@@ -307,6 +307,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) 15minutOdmora
 - (5) BacekJon
 - (8) PeterFMF
+- (13) Errick0
 
 ### [Učni list - Statistika.pdf](https://www.sc-nm.si/sss/si/file/download/873_168df75559af/U%C4%8Dni%20list%20-%20Statistika.pdf)
 - (2) 15minutOdmora
@@ -319,6 +320,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (18) spelaster
 - (19) Argonfmf
 - (22) petra1111
+- (13) Errick0
 
 ### [Učni list - Kotne funkcije - 2.pdf](https://www.sc-nm.si/sss/file/open/615_b422a31ead54/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20-%202.pdf)
 - (4) PeterStatevskiTheStarBoy
