@@ -179,6 +179,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) MilicaNedovic
 - (13) maja12345678910
 - (22) jemecema
+- (31) petra1111
 - (35) DenisBencic
 - (37) PeterFMF
 
