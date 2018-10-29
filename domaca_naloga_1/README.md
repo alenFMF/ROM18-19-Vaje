@@ -1,4 +1,4 @@
-﻿# Rezervacije 1. domačih nalog
+# Rezervacije 1. domačih nalog
  
 Vsak študent naj si rezervira 10 nalog iz različnih sklopov nalog.
 Naloge se nahajajo na spletni povezavi
@@ -37,11 +37,11 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (9) 15minutOdmora
 - (10) domjanic77
-- (13) jemecema
 - (14) mitjamori
 - (15) DenisBencic
 - (17) Argonfmf
 - (18) spelaster
+- (19) jemecema
 - (21) lapajnea
 - (22) urskabaskovic
 - (23) piploli
@@ -60,7 +60,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (9) KlemenSkukan
 - (11) TPogacar
 - (12) DenisBencic
-- (24) jemecema
+- (18) jemecema
 
 ### [Učni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
 - (1) KlaraKosec
@@ -179,10 +179,10 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) DjansS
 - (8) MilicaNedovic
 - (13) maja12345678910
-- (22) jemecema
 - (31) petra1111
 - (35) DenisBencic
 - (37) PeterFMF
+- (40) jemecema
 
 ### [Učni list - Sistemi linearnih enačb.pdf](https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf)
 - (1) domjanic77
@@ -193,6 +193,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (30) jemecema
 - (13) Errick0
+
 ### [Učni list - Geometrija.pdf](https://www.sc-nm.si/sss/si/file/download/908_fa3f990d1fc9/U%C4%8Dni%20list%20-%20Geometrija.pdf)
 - (1) SmokeyAjax
 - (3) piploli
@@ -200,7 +201,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) ursagabrovec
 - (6) sterspela
 - (12) maja12345678910
-- (34) jemecema
 
 ### [Učni list - Kotne funkcije v pravokotnem trikotniku.pdf](https://www.sc-nm.si/sss/si/file/download/824_4f7a2e4ab138/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20v%20pravokotnem%20trikotniku.pdf)  
 - (1) SmokeyAjax
@@ -218,6 +218,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (11) urskabaskovic
 - (12) mitjamori
  - (13) Errick0
+ 
 ### [Učni list - Potence z racionalnim eksponentom.pdf](https://www.sc-nm.si/sss/si/file/download/828_6210b4708ab3/U%C4%8Dni%20list%20-%20Potence%20z%20racionalnim%20eksponentom.pdf)
 - (1) SmokeyAjax
 - (4) mitjamori
@@ -234,7 +235,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (9) maja12345678910
 - (10) PeterFMF
 - (16) spelaster
-- (17) jemecema
 - (13) Errick0
 
 ### [Učni list - Kvadratna funkcija.pdf](https://www.sc-nm.si/sss/file/open/763_ef3adea10a46/U%C4%8Dni%20list%20-%20Kvadratna%20funkcija.pdf)
@@ -267,6 +267,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### [Učni list - Logaritem - 1.pdf](https://www.sc-nm.si/sss/file/open/620_6c5a3dc26891/U%C4%8Dni%20list%20-%20Logaritem%20-%201.pdf)
 - (1) MilicaNedovic
+- (3) jemecema
 - (4) TeaKn
 - (6) KonecVaj
 - (13) Errick0
@@ -292,6 +293,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (11) Gorlar
 - (13) TeaKn
+- (16) jemecema
 - (20) urskabaskovic
 - (21) petra1111
 - (14) ZačetekVaj
