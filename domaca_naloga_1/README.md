@@ -196,16 +196,17 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (4) KonecVaj
 - (7) TeaKn
 - (8) ZacetekVaj
+- (13) Errick0
 - (29) leon997
 - (30) jemecema
-- (13) Errick0
+
 
 ### [Učni list - Geometrija.pdf](https://www.sc-nm.si/sss/si/file/download/908_fa3f990d1fc9/U%C4%8Dni%20list%20-%20Geometrija.pdf)
 - (1) SmokeyAjax
-- (2) spelaster
 - (3) piploli
 - (4) KlemenSkukan
 - (5) ursagabrovec
+- (6) sterspela
 - (12) maja12345678910
 
 ### [Učni list - Kotne funkcije v pravokotnem trikotniku.pdf](https://www.sc-nm.si/sss/si/file/download/824_4f7a2e4ab138/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20v%20pravokotnem%20trikotniku.pdf)  
@@ -224,7 +225,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (10) PeterFMF
 - (11) urskabaskovic
 - (12) mitjamori
- - (13) Errick0
+- (13) Errick0
  
 ### [Učni list - Potence z racionalnim eksponentom.pdf](https://www.sc-nm.si/sss/si/file/download/828_6210b4708ab3/U%C4%8Dni%20list%20-%20Potence%20z%20racionalnim%20eksponentom.pdf)
 - (1) SmokeyAjax
@@ -241,26 +242,29 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (9) maja12345678910
 - (10) PeterFMF
-- (16) spelaster
 - (13) Errick0
+- (16) spelaster
+
 
 ### [Učni list - Kvadratna funkcija.pdf](https://www.sc-nm.si/sss/file/open/763_ef3adea10a46/U%C4%8Dni%20list%20-%20Kvadratna%20funkcija.pdf)
 - (1) SmokeyAjax
 - (3) KonecVaj
 - (8) mitjamori
 - (9) Gorlar
+- (13) Errick0
 - (22) BacekJon
 - (28) TeaKn
 - (29) PeterFMF
 - (35) petra1111
 - (39) urskabaskovic
-- (13) Errick0
+
 
 ### [Učni list - Ploščine geometrijskih likov.pdf](https://www.sc-nm.si/sss/si/file/download/790_96f4e0ca1618/U%C4%8Dni%20list%20-%20Plo%C5%A1%C4%8Dine%20geometrijskih%20likov.pdf)
 - (1) SmokeyAjax
+- (13) Errick0
 - (46) BacekJon
 - (47) spelaster
-- (13) Errick0
+
 ### [Učni list - Geometrijska telesa.pdf](https://www.sc-nm.si/sss/si/file/download/910_20110ab1fba1/U%C4%8Dni%20list%20-%20Geometrijska%20telesa.pdf)
 - (2) AliGremLahkoNaWC
 - (6) piploli
@@ -301,10 +305,10 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (11) Gorlar
 - (13) TeaKn
+- (14) ZačetekVaj
 - (16) jemecema
 - (20) urskabaskovic
 - (21) petra1111
-- (14) ZačetekVaj
 
 ### [Učni list - Racionalna funkcija - 1.pdf](https://www.sc-nm.si/sss/file/open/584_3135100d7326/U%C4%8Dni%20list%20-%20Racionalna%20funkcija-1.pdf)
 - (1) SmokeyAjax
@@ -327,10 +331,10 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) MilicaNedovic
 - (3) PeterFMF
 - (4) PeterStatevskiTheStarBoy
+- (13) Errick0
 - (18) spelaster
 - (19) Argonfmf
 - (22) petra1111
-- (13) Errick0
 
 ### [Učni list - Kotne funkcije - 2.pdf](https://www.sc-nm.si/sss/file/open/615_b422a31ead54/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20-%202.pdf)
 - (15) PeterStatevskiTheStarBoy
@@ -373,4 +377,5 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) spelaster
 - (3) BacekJon
 
-Test
+Konec Dokumenta
+-PSTSB
