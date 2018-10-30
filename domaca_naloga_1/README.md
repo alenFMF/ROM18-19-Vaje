@@ -202,10 +202,10 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### [Učni list - Geometrija.pdf](https://www.sc-nm.si/sss/si/file/download/908_fa3f990d1fc9/U%C4%8Dni%20list%20-%20Geometrija.pdf)
 - (1) SmokeyAjax
+- (2) spelaster
 - (3) piploli
 - (4) KlemenSkukan
 - (5) ursagabrovec
-- (6) sterspela
 - (12) maja12345678910
 
 ### [Učni list - Kotne funkcije v pravokotnem trikotniku.pdf](https://www.sc-nm.si/sss/si/file/download/824_4f7a2e4ab138/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20v%20pravokotnem%20trikotniku.pdf)  
