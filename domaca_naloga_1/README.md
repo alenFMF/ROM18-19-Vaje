@@ -39,6 +39,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (10) domjanic77
 - (14) mitjamori
 - (15) DenisBencic
+- (16) leon997
 - (17) Argonfmf
 - (18) spelaster
 - (19) jemecema
@@ -60,6 +61,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (9) KlemenSkukan
 - (11) TPogacar
 - (12) DenisBencic
+- (13) leon997
 - (18) jemecema
 
 ### [Učni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
@@ -82,6 +84,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (16) ursagabrovec
 - (17) domjanic77
 - (18) Gorlar
+- (19) leon997
 - (20) BacekJon
 
 ### [Učni list - Računanje z izrazi.pdf](https://www.sc-nm.si/sss/si/file/download/851_b391a4d3b88a/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20z%20izrazi.pdf)
@@ -105,6 +108,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) MilicaNedovic
 - (2) KlaraKosec
 - (3) ursagabrovec
+- (4) leon997
 - (6) KonecVaj (6) Argonfmf
 - (7) DenisBencic
 - (8) ZacetekVaj
@@ -147,6 +151,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (9) ursagabrovec
 - (10) KlemenSkukan
 - (11) Argonfmf
+- (12) leon997
 - (14) jemecema
 - (13) Errick0
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
@@ -191,6 +196,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (4) KonecVaj
 - (7) TeaKn
 - (8) ZacetekVaj
+- (29) leon997
 - (30) jemecema
 - (13) Errick0
 
@@ -211,6 +217,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (2) Argonfmf
 - (3) MilicaNedovic
+- (4) leon997
 - (6) domjanic77
 - (7) Gorlar 
 - (8) petra1111
@@ -267,6 +274,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 
 ### [Učni list - Logaritem - 1.pdf](https://www.sc-nm.si/sss/file/open/620_6c5a3dc26891/U%C4%8Dni%20list%20-%20Logaritem%20-%201.pdf)
 - (1) MilicaNedovic
+- (2) leon997
 - (3) jemecema
 - (4) TeaKn
 - (6) KonecVaj
