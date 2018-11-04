@@ -152,8 +152,9 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (10) KlemenSkukan
 - (11) Argonfmf
 - (12) leon997
-- (14) jemecema
 - (13) Errick0
+- (14) jemecema
+
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
 - (1) DenisBencic
 - (2) KlaraKosec
@@ -283,6 +284,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (4) TeaKn
 - (6) KonecVaj
 - (13) Errick0
+
 ### [Učni list - Logaritem - 2.pdf](https://www.sc-nm.si/sss/file/open/720_d3042caaa069/U%C4%8Dni%20list%20-%20Logaritem%20-%202.pdf)
 - (4) PeterStatevskiTheStarBoy
 - (7) petra1111
@@ -291,6 +293,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (11) urskabaskovic
 - (12) PeterFMF
 - (13) BacekJon
+
 ### [Učni list - Polinomi - 1.pdf](https://www.sc-nm.si/sss/file/open/599_bb49bdbafe02/U%C4%8Dni%20list%20-%20Polinomi%20-%201.pdf)
 - (1) SmokeyAjax
 - (3) piploli
