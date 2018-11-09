@@ -70,9 +70,6 @@
 [submodule "repozitoriji/piploli"]
 	path = repozitoriji/piploli
 	url = https://github.com/piploli/ROM2.git
-[submodule "repozitoriji/DjansS"]
-	path = repozitoriji/DjansS
-	url = https://github.com/DjansS/ROM1.git
 [submodule "repozitoriji/petra1111"]
 	path = repozitoriji/petra1111
 	url = https://github.com/petra1111/ROM.git
@@ -91,3 +88,21 @@
 [submodule "repozitoriji/AliGremLahkoNaWC"]
 	path = repozitoriji/AliGremLahkoNaWC
 	url = https://github.com/AliGremLahkoNaWC/ROM.git
+[submodule "repozitoriji/PeterStatevskiTheStarBoy"]
+	path = repozitoriji/PeterStatevskiTheStarBoy
+	url = https://github.com/PeterStatevskiTheStarBoy/ROM.git
+[submodule "repozitoriji/micanedovic95"]
+	path = repozitoriji/micanedovic95
+	url = https://github.com/micanedovic95/ROM5.git
+[submodule "repozitoriji/JensterleI"]
+	path = repozitoriji/JensterleI
+	url = https://github.com/JensterleI/ROM.git
+[submodule "repozitoriji/Monikaaaaaaaaaa"]
+	path = repozitoriji/Monikaaaaaaaaaa
+	url = https://github.com/Monikaaaaaaaaaa/ROM.git
+[submodule "repozitoriji/magicdadi"]
+	path = repozitoriji/magicdadi
+	url = https://github.com/magicdadi/ROM.git
+[submodule "repozitoriji/DjansS"]
+	path = repozitoriji/DjansS
+	url = https://github.com/DjansS/ROM18-19-Vaje.git
