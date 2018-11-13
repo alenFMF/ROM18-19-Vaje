@@ -1,7 +1,8 @@
-﻿# ROM18-19-Vaje
+# ROM18-19-Vaje
 
 To je spletni repozitorij za skupno delo na vajah pri predmetu Računalniška orodja v matematiki.
 Na tem repozitoriju so povezave do repozitorijev sodelujočih pri predmetu.
+
 
 V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodelujočih
 
@@ -34,6 +35,21 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [spelaster](https://github.com/spelaster/ROM)
 - [ursagabrovec](https://github.com/ursagabrovec/ROM1)
 - [jemecema](https://github.com/jemecema/ROM)
+<<<<<<< HEAD
 - [piploli](https://github.com/piploli)
 - [DjansS](https://github.com/DjansS)
 >>>>>>> 20094baa2b40007523b6d4fec2b2a8e6d5ffa164
+=======
+- [piploli](https://github.com/piploli/ROM2)
+- [DjansS](https://github.com/DjansS/ROM18-19-Vaje)
+- [petra1111](https://github.com/petra1111/ROM)
+- [gorlar](https://github.com/gorlar/ROM.git)
+- [urskabaskovic](https://github.com/urskabaskovic/ROM)
+- [mitjamori](https://github.com/mitjamori/ROM.git)
+- [domjanic77](https://github.com/domjanic77/ROM)
+- [PeterStatevskiTheStarBoy](https://github.com/PeterStatevskiTheStarBoy/ROM)
+- [MilicaNedovic](https://github.com/micanedovic95/ROM5.git)
+- [JensterleI](https://github.com/JensterleI/ROM)
+- [magicdadi](https://github.com/magicdadi/ROM)
+- [Monikaaaaaaaaaa](https://github.com/Monikaaaaaaaaaa/ROM.git)
+>>>>>>> 3b52faeabf0ee2a1aafcb83363b8a0b89d9382fb
