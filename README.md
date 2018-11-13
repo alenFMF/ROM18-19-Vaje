@@ -10,11 +10,9 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [lapajnea](https://github.com/lapajnea/ROM)
 - [PeterFMF](https://github.com/PeterFMF/ROM)
 - [leon997](https://github.com/leon997/ROM)
-<<<<<<< HEAD
 - [KlaraKosec] (https://github.com/KlaraKosec/hzt)
- - [TPogacar](https://github.com/TPogacar/ROM)
--[15minutOdmora] (https://github.com/15minutOdmora/ROM)
-=======
+- [TPogacar](https://github.com/TPogacar/ROM)
+- [15minutOdmora] (https://github.com/15minutOdmora/ROM)
 - [KlaraKosec](https://github.com/KlaraKosec/hzt)
 - [TPogacar](https://github.com/TPogacar/ROM)
 - [ZacetekVaj](https://github.com/ZacetekVaj/ROM)
@@ -35,11 +33,8 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [spelaster](https://github.com/spelaster/ROM)
 - [ursagabrovec](https://github.com/ursagabrovec/ROM1)
 - [jemecema](https://github.com/jemecema/ROM)
-<<<<<<< HEAD
 - [piploli](https://github.com/piploli)
 - [DjansS](https://github.com/DjansS)
->>>>>>> 20094baa2b40007523b6d4fec2b2a8e6d5ffa164
-=======
 - [piploli](https://github.com/piploli/ROM2)
 - [DjansS](https://github.com/DjansS/ROM18-19-Vaje)
 - [petra1111](https://github.com/petra1111/ROM)
@@ -52,4 +47,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [JensterleI](https://github.com/JensterleI/ROM)
 - [magicdadi](https://github.com/magicdadi/ROM)
 - [Monikaaaaaaaaaa](https://github.com/Monikaaaaaaaaaa/ROM.git)
->>>>>>> 3b52faeabf0ee2a1aafcb83363b8a0b89d9382fb
+
