@@ -33,8 +33,6 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [spelaster](https://github.com/spelaster/ROM)
 - [ursagabrovec](https://github.com/ursagabrovec/ROM1)
 - [jemecema](https://github.com/jemecema/ROM)
-- [piploli](https://github.com/piploli)
-- [DjansS](https://github.com/DjansS)
 - [piploli](https://github.com/piploli/ROM2)
 - [DjansS](https://github.com/DjansS/ROM18-19-Vaje)
 - [petra1111](https://github.com/petra1111/ROM)
