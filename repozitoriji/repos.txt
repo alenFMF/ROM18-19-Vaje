@@ -22,7 +22,7 @@ https://github.com/spelaster/ROM.git
 https://github.com/ursagabrovec/ROM1.git
 https://github.com/jemecema/ROM.git
 https://github.com/piploli/ROM2.git
-https://github.com/DjansS/ROM18-19-Vaje.git
+https://github.com/DjansS/ROM1.git
 https://github.com/petra1111/ROM.git
 https://github.com/gorlar/ROM.git
 https://github.com/urskabaskovic/ROM.git
